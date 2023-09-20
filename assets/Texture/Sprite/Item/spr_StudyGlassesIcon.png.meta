@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "fef275fe-5b22-494b-a32e-f12b14eb089c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 25,
+  "height": 20,
+  "platformSettings": {},
+  "subMetas": {
+    "spr_StudyGlassesIcon": {
+      "ver": "1.0.6",
+      "uuid": "34c9d0f2-c47f-4727-a76c-0af009a5e057",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "fef275fe-5b22-494b-a32e-f12b14eb089c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 24,
+      "height": 14,
+      "rawWidth": 25,
+      "rawHeight": 20,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

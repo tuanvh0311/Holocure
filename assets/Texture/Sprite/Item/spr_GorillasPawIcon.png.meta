@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a75aa03e-babf-44d1-8938-67ede9303862",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 25,
+  "height": 20,
+  "platformSettings": {},
+  "subMetas": {
+    "spr_GorillasPawIcon": {
+      "ver": "1.0.6",
+      "uuid": "6c650b55-278b-43cc-8772-cd93cbd2d23c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a75aa03e-babf-44d1-8938-67ede9303862",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 23,
+      "height": 18,
+      "rawWidth": 25,
+      "rawHeight": 20,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

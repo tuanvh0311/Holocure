@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "menu_charselec_triangle",
+    "texture": "239a8aff-bd77-499a-8f71-906decc76922",
+    "atlas": "",
+    "rect": [
+      21,
+      7,
+      36,
+      36
+    ],
+    "offset": [
+      3.5,
+      1.5
+    ],
+    "originalSize": [
+      71,
+      53
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

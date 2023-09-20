@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_Shrimp2_0",
+    "texture": "28b12bfe-69c4-42fd-a8b3-77f8f2cd41c4",
+    "atlas": "",
+    "rect": [
+      49,
+      98,
+      30,
+      28
+    ],
+    "offset": [
+      0,
+      -48
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

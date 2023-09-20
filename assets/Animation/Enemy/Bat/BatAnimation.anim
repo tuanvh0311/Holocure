@@ -1,0 +1,48 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "BatAnimation",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.375,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "773c9b1b-f03e-42a1-b026-c3fbaae90c46"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "218095ac-c498-4124-b0e1-1e626296b7b0"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "cba8c46b-f14f-4e27-956b-e334562a5b6d"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "color": []
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "changeColor",
+      "params": [
+        "255, 255, 255"
+      ]
+    }
+  ]
+}

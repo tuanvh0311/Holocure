@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HpBar",
+    "texture": "edd264cd-c49f-4758-943f-a1f3dfdf2dd1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      56,
+      4
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      56,
+      4
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

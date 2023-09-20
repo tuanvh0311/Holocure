@@ -1,0 +1,67 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "SpiderCookingAnimation",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.6,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 38,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "fa5d3023-b416-4242-b358-2a1f6c9f06b3"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "d37b2e12-2b68-465a-ac51-49aea51693fa"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "0c55c45f-06f9-4b69-b933-912de73a6c7f"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "3eb2588f-4414-4867-95c4-43aee4080dc8"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "70dc8a6f-1c1b-4f19-8ca3-46ab6f2d571f"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "eb83c176-1571-4d05-bfd2-c08dc37399b7"
+            }
+          },
+          {
+            "frame": 1.2,
+            "value": {
+              "__uuid__": "341d3a38-8c9f-4a3c-a7c8-a42da678a347"
+            }
+          },
+          {
+            "frame": 1.4,
+            "value": {
+              "__uuid__": "0294b182-7dfc-46e8-baff-70194e9a4141"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

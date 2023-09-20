@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Trang",
+    "texture": "4a50d99e-da1c-4874-9a01-2e13d9bc8149",
+    "atlas": "",
+    "rect": [
+      10,
+      4,
+      58,
+      62
+    ],
+    "offset": [
+      2,
+      -1
+    ],
+    "originalSize": [
+      74,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

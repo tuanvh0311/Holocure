@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_holoCoin_0",
+    "texture": "92531742-44bb-4109-ae15-e2080d7e2cc8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      15,
+      15
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      15,
+      15
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

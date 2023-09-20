@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "KronieA_Run",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.375,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "483b59fd-2643-4a3e-b7f7-8b6723d64fe5"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "d288cb22-2ce3-4445-a7f1-7c21df6bebb4"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "e16bd6ca-5b64-49e0-93af-54edb1678b75"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

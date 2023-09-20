@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Bubba_Run",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.375,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e3d7355c-8f91-45dc-8467-2658e53f60a9"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "0a85c555-9d8f-475e-b530-7a5853234f87"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "7e02ea80-0638-422d-9ede-cb40d2918abb"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

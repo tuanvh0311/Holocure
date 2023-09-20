@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_Gura_portrait",
+    "texture": "0a24b03d-1c54-4dc6-8a30-cb6fb8fa6a1a",
+    "atlas": "",
+    "rect": [
+      3,
+      1,
+      43,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      49,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

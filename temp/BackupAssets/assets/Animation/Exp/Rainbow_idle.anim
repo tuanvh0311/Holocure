@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Rainbow_idle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.2,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 54,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a342c906-44b8-4c1c-b401-bc6e43608493"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "d466efd3-ccb4-4934-8cb1-02d5c9657ee5"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "a5457566-d410-4d22-8313-818a70b7f3dd"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "6b2d32ae-3caf-4b54-b08d-b97b20ae79f8"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "6b88de24-ae61-46cf-b485-37fbbe6b5305"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "385f1541-759f-427e-b388-9918f0f7d60a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

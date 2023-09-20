@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "SaplingB_Run",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.375,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "c7c4a3db-3268-42d4-a40b-373b25cff0b3"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "a1b707d6-a8d7-4288-9df8-10274515a6f1"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "a490cc17-53df-437e-9d22-b1a512907223"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

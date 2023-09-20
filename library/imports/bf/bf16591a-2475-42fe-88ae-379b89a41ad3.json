@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hud_criticon",
+    "texture": "c7fcce2c-2528-4f13-ac14-e6918cc4ac3d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      16,
+      16
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      16,
+      16
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

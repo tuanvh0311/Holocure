@@ -1,0 +1,12 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "Molly",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "maxLevel": 7,
+    "baseDamage": 20,
+    "attackSpeed": 6,
+    "minAS": 3
+  }
+}

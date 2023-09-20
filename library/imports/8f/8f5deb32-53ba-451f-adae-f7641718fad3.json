@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_Gura_O2_run_3",
+    "texture": "9da4e975-6660-48ac-a9a4-eb18c6956276",
+    "atlas": "",
+    "rect": [
+      16,
+      33,
+      48,
+      27
+    ],
+    "offset": [
+      8,
+      -14.5
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

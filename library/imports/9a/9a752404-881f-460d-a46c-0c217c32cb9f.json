@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_Takodachi2_0",
+    "texture": "c9121c21-4d30-46ca-a692-2e8aa76baa5b",
+    "atlas": "",
+    "rect": [
+      23,
+      41,
+      18,
+      21
+    ],
+    "offset": [
+      0,
+      -19.5
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

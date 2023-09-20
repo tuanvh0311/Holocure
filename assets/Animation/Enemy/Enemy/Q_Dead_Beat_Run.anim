@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Q_Dead_Beat_Run",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.375,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "3f45dd5b-49aa-400b-a2c8-840049f34d7d"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "39d66134-1cd9-4296-b2a3-6b142149cae6"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "09ce1e52-77f2-4c87-a6ec-38069b18e584"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

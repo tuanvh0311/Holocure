@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_hamburgerIcon_0",
+    "texture": "51310179-d86e-4e2a-a3a6-ea5a389829bd",
+    "atlas": "",
+    "rect": [
+      8,
+      14,
+      17,
+      16
+    ],
+    "offset": [
+      0.5,
+      -6
+    ],
+    "originalSize": [
+      32,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

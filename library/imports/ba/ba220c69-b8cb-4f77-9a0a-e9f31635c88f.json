@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_AngelFairy_0",
+    "texture": "28dac37c-c038-4753-a92b-059f7c5d7f42",
+    "atlas": "",
+    "rect": [
+      14,
+      36,
+      28,
+      24
+    ],
+    "offset": [
+      -4,
+      -16
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

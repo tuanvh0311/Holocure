@@ -1,0 +1,157 @@
+{
+  "collision-matrix": [
+    [
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      true,
+      null,
+      false,
+      true,
+      true,
+      true
+    ],
+    [
+      false,
+      true,
+      false,
+      null,
+      true,
+      null,
+      null,
+      null,
+      null,
+      null,
+      true
+    ],
+    [
+      false,
+      true,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      null,
+      null,
+      true
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      null,
+      true
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "excluded-modules": [
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin"
+  ],
+  "group-list": [
+    "default",
+    "Player",
+    "Enemy",
+    "Contruct",
+    "Weapon",
+    "Destroyable",
+    "Food",
+    "Coin",
+    "Exp",
+    "PickupRange",
+    "ShotRange"
+  ],
+  "start-scene": "5f8eec2e-52b6-4cc0-ad4e-abf942a0726b",
+  "design-resolution-width": 960,
+  "design-resolution-height": 640,
+  "fit-width": false,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "width": 960,
+    "height": 640
+  },
+  "last-module-event-record-time": 1694676496993,
+  "assets-sort-type": "name",
+  "facebook": {
+    "enable": false,
+    "appID": "",
+    "live": {
+      "enable": false
+    },
+    "audience": {
+      "enable": false
+    }
+  },
+  "preview-port": 7456,
+  "clear-simulator-cache": true
+}

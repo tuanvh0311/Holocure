@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Wisdom stone",
+    "texture": "a1d379d4-a011-44e6-852a-019dac7f61b6",
+    "atlas": "",
+    "rect": [
+      9,
+      11,
+      33,
+      34
+    ],
+    "offset": [
+      0.5,
+      1
+    ],
+    "originalSize": [
+      50,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

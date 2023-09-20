@@ -1,0 +1,45 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Calli_Run",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.375,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d23530e9-81bc-4fd2-9ade-f8f2d51ee796"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "4cbd70b9-6515-4927-87bf-d51923fbf17b"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "1bf949f1-aa5a-4c89-b79a-9730d83a83cb"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "height": [
+        {
+          "frame": 0,
+          "value": 170
+        }
+      ]
+    }
+  },
+  "events": []
+}

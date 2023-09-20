@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_Calli_portrait",
+    "texture": "c35b7668-e24c-4de6-b8eb-e3c98a774070",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      43,
+      38
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      49,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

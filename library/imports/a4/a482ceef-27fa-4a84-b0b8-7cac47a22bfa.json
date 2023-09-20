@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_HoomansA_1",
+    "texture": "bbb1d433-83d3-4fd6-95e2-b3bcb2ec0176",
+    "atlas": "",
+    "rect": [
+      20,
+      40,
+      21,
+      16
+    ],
+    "offset": [
+      -1.5,
+      -16
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

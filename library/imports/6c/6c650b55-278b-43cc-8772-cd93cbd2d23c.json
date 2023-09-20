@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_GorillasPawIcon",
+    "texture": "a75aa03e-babf-44d1-8938-67ede9303862",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      23,
+      18
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      25,
+      20
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

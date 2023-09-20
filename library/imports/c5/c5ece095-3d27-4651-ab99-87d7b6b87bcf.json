@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hud_spdicon",
+    "texture": "ea90ce5f-6929-4323-b790-bb2b36bc430d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      16,
+      16
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      16,
+      16
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "GhostWalking",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.625,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "522fc7b0-9c07-40ee-831b-f6453b2974ef"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "38c5807e-910e-460a-b18a-86a21cabf5cf"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "3cd3874a-0e32-4a15-97e8-a49d1f3b122f"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "522fc7b0-9c07-40ee-831b-f6453b2974ef"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "38c5807e-910e-460a-b18a-86a21cabf5cf"
+            }
+          },
+          {
+            "frame": 1.25,
+            "value": {
+              "__uuid__": "3cd3874a-0e32-4a15-97e8-a49d1f3b122f"
+            }
+          },
+          {
+            "frame": 1.5,
+            "value": {
+              "__uuid__": "38c5807e-910e-460a-b18a-86a21cabf5cf"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

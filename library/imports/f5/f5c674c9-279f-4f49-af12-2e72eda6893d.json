@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_Investigaters_0",
+    "texture": "e1ee711d-167b-494e-8a37-bcb0a6acd2cf",
+    "atlas": "",
+    "rect": [
+      7,
+      30,
+      43,
+      31
+    ],
+    "offset": [
+      -3.5,
+      -13.5
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

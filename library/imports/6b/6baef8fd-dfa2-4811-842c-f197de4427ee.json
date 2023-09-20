@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lavaBall",
+    "texture": "fec71e01-11b6-4a84-a8b2-eb6ec77b600b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      334,
+      382
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      334,
+      382
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

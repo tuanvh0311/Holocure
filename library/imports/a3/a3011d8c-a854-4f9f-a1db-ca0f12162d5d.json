@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_DevilFairy_0",
+    "texture": "1db0f592-6606-4641-80b3-f0451f64c938",
+    "atlas": "",
+    "rect": [
+      14,
+      36,
+      32,
+      24
+    ],
+    "offset": [
+      -2,
+      -16
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

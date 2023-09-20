@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ghost3",
+    "texture": "4fa887ea-edff-44f5-b301-0503bdce0e4e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      79,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

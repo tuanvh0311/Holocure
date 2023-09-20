@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Gloom_Run",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.375,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9b5bfebe-318f-4ef3-9688-4f6586dea21b"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "16fce5f8-a7ad-4d51-84da-3c3b8f718170"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "3588b4d1-a3e5-4f1f-94ee-d24e33b61a49"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

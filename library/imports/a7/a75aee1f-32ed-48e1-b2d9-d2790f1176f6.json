@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hud_pickupicon",
+    "texture": "5f123ea6-30e1-4daa-a702-ce32d481a8a2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      16,
+      16
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      16,
+      16
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

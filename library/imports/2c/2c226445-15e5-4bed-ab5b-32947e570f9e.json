@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_CalliWeapon",
+    "texture": "b99e8f23-1d21-422e-bf39-82c8347b7404",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      24,
+      20
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      25,
+      20
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

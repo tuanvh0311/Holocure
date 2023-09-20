@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_BreadDog_0",
+    "texture": "0e21d875-0e04-4ff3-a080-8209bf910db6",
+    "atlas": "",
+    "rect": [
+      12,
+      33,
+      37,
+      25
+    ],
+    "offset": [
+      -1.5,
+      -13.5
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

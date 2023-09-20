@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Upgrade Background On Hover",
+    "texture": "65011263-9a9e-4ebc-83a7-253c4b7045b3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      390,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      390,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

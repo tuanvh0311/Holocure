@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_KromiesB_2",
+    "texture": "68020109-d5a1-4e34-ab12-12191f99938e",
+    "atlas": "",
+    "rect": [
+      17,
+      30,
+      29,
+      32
+    ],
+    "offset": [
+      -0.5,
+      -14
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

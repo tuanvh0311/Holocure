@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "HoomanA_Run",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.25,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "f196f45d-a283-4daa-8aee-8a4f9c442c58"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "a482ceef-27fa-4a84-b0b8-7cac47a22bfa"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

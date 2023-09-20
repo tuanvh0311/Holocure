@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "MollySpread",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4166666666666667,
+  "sample": 12,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2bb4774a-9d2d-49e4-b2d3-8660563d07ad"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "1def0e69-db76-404d-b009-e4acc97f6c72"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "0671a3da-675e-4687-abf0-4de6363d88be"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "396a3149-38ef-4938-9cdb-72d50fc45cd0"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "5fb28c6e-6e7e-43e1-8cbb-aefc7475b5cb"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

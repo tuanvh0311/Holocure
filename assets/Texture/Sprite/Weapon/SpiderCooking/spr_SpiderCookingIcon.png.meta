@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "08bc0611-9af7-4b99-b190-04d386905dc3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 25,
+  "height": 20,
+  "platformSettings": {},
+  "subMetas": {
+    "spr_SpiderCookingIcon": {
+      "ver": "1.0.6",
+      "uuid": "bd0f71e2-1178-4bc5-882e-7c218a878401",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "08bc0611-9af7-4b99-b190-04d386905dc3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 24,
+      "height": 20,
+      "rawWidth": 25,
+      "rawHeight": 20,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

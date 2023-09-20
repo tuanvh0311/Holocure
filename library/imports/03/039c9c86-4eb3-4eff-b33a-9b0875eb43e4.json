@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_BubbaE_0",
+    "texture": "5f19c858-7aee-457d-9458-c70f71e21995",
+    "atlas": "",
+    "rect": [
+      17,
+      19,
+      30,
+      43
+    ],
+    "offset": [
+      0,
+      -8.5
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Investi-Gator_Run",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.375,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "1f20d612-ed69-413e-8a6c-e8e2aa47f7d5"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "3b8117a8-1d4f-4afb-b4b4-4120b8883ee8"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "f0a99847-a8cb-49d1-bc40-15f03093804f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

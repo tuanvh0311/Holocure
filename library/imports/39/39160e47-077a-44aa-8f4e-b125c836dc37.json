@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_BodyPillowIcon",
+    "texture": "c6de3ed4-c8b7-4b11-984e-11ef7c779ebe",
+    "atlas": "",
+    "rect": [
+      3,
+      1,
+      19,
+      19
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      25,
+      20
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

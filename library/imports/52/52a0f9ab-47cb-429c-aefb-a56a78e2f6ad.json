@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_HolyMilkIcon",
+    "texture": "2755b04d-47bc-4bab-8648-d047a9e4f3dd",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      20,
+      20
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      25,
+      20
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

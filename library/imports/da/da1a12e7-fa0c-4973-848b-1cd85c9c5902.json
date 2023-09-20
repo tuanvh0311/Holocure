@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Deadbeat_Run",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "5c7fff62-374d-4651-8196-4b43a6a401f4"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "3b665a4f-2eea-410c-81d7-a34133c517cb"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "97023e7d-3491-4b22-8d54-dff5c06de3b2"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

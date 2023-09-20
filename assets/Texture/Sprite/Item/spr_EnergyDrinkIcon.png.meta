@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "371195fa-a337-435c-b207-75794c2b31f8",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 25,
+  "height": 20,
+  "platformSettings": {},
+  "subMetas": {
+    "spr_EnergyDrinkIcon": {
+      "ver": "1.0.6",
+      "uuid": "2ad182aa-9e5b-4741-8d33-7f034143b5e0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "371195fa-a337-435c-b207-75794c2b31f8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 0,
+      "width": 20,
+      "height": 20,
+      "rawWidth": 25,
+      "rawHeight": 20,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

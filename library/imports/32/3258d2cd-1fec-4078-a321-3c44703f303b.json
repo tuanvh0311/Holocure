@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Autotile_BitmaskRef1",
+    "texture": "26798d42-2666-44d1-a1e8-0045940698b1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      160,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

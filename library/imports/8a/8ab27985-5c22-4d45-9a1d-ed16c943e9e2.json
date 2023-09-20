@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Haste potion",
+    "texture": "1b6db67f-4037-4ba0-be84-0c10e7b95718",
+    "atlas": "",
+    "rect": [
+      9,
+      13,
+      15,
+      38
+    ],
+    "offset": [
+      1,
+      -3
+    ],
+    "originalSize": [
+      31,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

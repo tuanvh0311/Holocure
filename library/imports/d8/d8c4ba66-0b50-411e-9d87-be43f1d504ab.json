@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_Gura_O2_idle_1",
+    "texture": "37bb2eb9-1c60-4f1f-b1e6-12e9adc1204c",
+    "atlas": "",
+    "rect": [
+      19,
+      37,
+      42,
+      26
+    ],
+    "offset": [
+      8,
+      -18
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

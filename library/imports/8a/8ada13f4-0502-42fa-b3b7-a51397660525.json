@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hud_ATKicon",
+    "texture": "f65890f6-3427-49ed-8804-e077d909c7cf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      16,
+      16
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      16,
+      16
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

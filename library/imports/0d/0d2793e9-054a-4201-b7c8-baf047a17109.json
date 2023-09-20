@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Hungry_Takodachi_Run",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.375,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9a752404-881f-460d-a46c-0c217c32cb9f"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "fbd4a626-909e-4270-a2a5-d1c7c27e43ba"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "327ba5f0-e18f-4f9e-a98a-672637f8855d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

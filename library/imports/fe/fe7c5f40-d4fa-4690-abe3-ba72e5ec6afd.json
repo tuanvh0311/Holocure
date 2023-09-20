@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Upgrade Background",
+    "texture": "23ba14ee-859c-4d6d-9546-4d1671134a64",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      384,
+      63
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      384,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "SlashAnimation",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a65aff90-5e18-4757-b320-22564108b2ed"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "4796a2b3-2f51-419d-9e5b-ef327e9bfe58"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "01df0293-81ce-4f60-b109-1ee158447f1a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

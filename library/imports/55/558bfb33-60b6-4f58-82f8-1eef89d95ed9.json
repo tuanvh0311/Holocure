@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Mighty stone",
+    "texture": "cf0d7b60-d19c-49fe-9f53-f542e4d0fe6c",
+    "atlas": "",
+    "rect": [
+      9,
+      11,
+      33,
+      34
+    ],
+    "offset": [
+      0.5,
+      1
+    ],
+    "originalSize": [
+      50,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

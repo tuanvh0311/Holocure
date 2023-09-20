@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_gacha_holologo",
+    "texture": "9df3f6b9-2b24-40ba-b3ff-181bf48e7bf6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      85,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      85,
+      98
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Calli_Idle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2275ca8f-bd32-43ab-b46c-a4df1092d6e2"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "df36af02-d43a-43bc-8496-25838e61e474"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "9cdcd7a5-32b9-40e8-a5ae-8447cf46934e"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "c871939d-d8a7-4682-becf-4b26ba536407"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "height": [
+        {
+          "frame": 0,
+          "value": 150
+        }
+      ]
+    }
+  },
+  "events": []
+}

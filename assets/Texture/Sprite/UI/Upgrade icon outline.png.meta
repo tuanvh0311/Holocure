@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "16e5dbbf-3d88-405e-b0ce-ff05f8642320",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 41,
+  "height": 43,
+  "platformSettings": {},
+  "subMetas": {
+    "Upgrade icon outline": {
+      "ver": "1.0.6",
+      "uuid": "cadf2c39-e594-41a9-82c0-e698690eb3ce",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "16e5dbbf-3d88-405e-b0ce-ff05f8642320",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 41,
+      "height": 43,
+      "rawWidth": 41,
+      "rawHeight": 43,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

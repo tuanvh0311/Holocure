@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Gura_Run",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0ff20392-6b7a-4236-9c29-59693108487a"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "5e90cfed-f389-439f-a26b-9e1a0e86e6e8"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "d875c757-0bf6-44bd-8110-a062c5a18403"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "8f5deb32-53ba-451f-adae-f7641718fad3"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "ce8a0ba4-11d3-499d-b1ee-fb4abad960e3"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "970f567d-f9e3-4f52-aaba-15f10dde6364"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

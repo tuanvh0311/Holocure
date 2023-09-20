@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "SaplingA_Run",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.375,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "f7d1cfe6-f5e6-41b4-a45c-4be8ea61f651"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "aa0db876-b3ef-4820-bf78-6553946b5097"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "62706fc4-9f3a-468e-8b90-938604417716"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

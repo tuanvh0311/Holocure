@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_CEOTears",
+    "texture": "d5058fe6-4b78-42e3-8c96-0f6d68cafa68",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      10,
+      8
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      10,
+      8
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Simplified_Lake",
+    "texture": "1e1c1532-faa6-4102-a1e2-41117ffb0c59",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      256,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

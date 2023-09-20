@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Lake_Tileset",
+    "texture": "51688395-6328-46b8-82f3-41569099a66c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      160,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

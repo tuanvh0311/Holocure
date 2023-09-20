@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "KronieB_Run",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.375,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "78dc1a36-492f-4757-9169-0667d2970109"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "5f5ea107-8d7b-4d3b-8fe0-8e256d79863f"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "f5aecdd9-27ee-4930-816a-0e3281aacfe8"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hud_pausemenu",
+    "texture": "72590d6b-78f6-46b5-a33f-598cdffe695d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      245
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      245
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Sapling_King_Run",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.375,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0dd31f4f-5779-4050-a3da-c5670d9fa098"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "9e6a19f7-9e9c-4d3b-9f88-6f9c6f8d62be"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "da61ba85-3793-4304-9659-4ac021147e55"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

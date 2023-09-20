@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_deathHeart_0",
+    "texture": "6f2d871f-b6c7-46db-aebb-7561f2e4ebb9",
+    "atlas": "",
+    "rect": [
+      1,
+      3,
+      30,
+      28
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      32,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

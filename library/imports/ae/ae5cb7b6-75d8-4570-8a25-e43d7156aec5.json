@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hud_HP",
+    "texture": "dd1a9039-6098-4bbc-aec9-a243f38a4fa5",
+    "atlas": "",
+    "rect": [
+      51,
+      14,
+      18,
+      8
+    ],
+    "offset": [
+      -39.5,
+      25.5
+    ],
+    "originalSize": [
+      199,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

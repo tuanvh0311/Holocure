@@ -1,0 +1,8 @@
+{
+  "__type__": "cc.AudioClip",
+  "_name": "buttonSound",
+  "_objFlags": 0,
+  "_native": ".wav",
+  "duration": 0.484989,
+  "loadMode": 0
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_empty_slot_item",
+    "texture": "0b96bb4c-d7ca-4016-9eda-549c0bcf5594",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      10,
+      10
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      12,
+      11
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

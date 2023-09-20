@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_KFP_0",
+    "texture": "6d2358cb-bc99-4b0e-87a3-d56f41dc0a3d",
+    "atlas": "",
+    "rect": [
+      20,
+      36,
+      25,
+      21
+    ],
+    "offset": [
+      0.5,
+      -14.5
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

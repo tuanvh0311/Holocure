@@ -1,0 +1,8 @@
+{
+  "__type__": "cc.AudioClip",
+  "_name": "bgm_gameOver",
+  "_objFlags": 0,
+  "_native": ".wav",
+  "duration": 5.271338,
+  "loadMode": 0
+}

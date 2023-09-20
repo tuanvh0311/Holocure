@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_Deadbeat_0",
+    "texture": "5116a915-2acb-4062-a53d-d9661d40ae6c",
+    "atlas": "",
+    "rect": [
+      21,
+      28,
+      21,
+      34
+    ],
+    "offset": [
+      -0.5,
+      -13
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

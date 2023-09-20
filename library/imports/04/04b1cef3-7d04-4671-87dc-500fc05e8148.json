@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Blue Arrow",
+    "texture": "9c022768-85a4-4de7-a02f-21e6ecdcdf3e",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      544,
+      159
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      544,
+      160
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

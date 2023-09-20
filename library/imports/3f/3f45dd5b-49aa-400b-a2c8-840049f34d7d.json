@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_DeadbeatGangA_0",
+    "texture": "512753f5-1e42-4374-9e1d-dca952409b24",
+    "atlas": "",
+    "rect": [
+      18,
+      16,
+      38,
+      48
+    ],
+    "offset": [
+      5,
+      -8
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

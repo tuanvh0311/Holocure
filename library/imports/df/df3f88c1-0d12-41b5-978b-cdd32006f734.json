@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_ShrimpGangA_0",
+    "texture": "00dc2342-f2a9-48df-8d87-563a9da73757",
+    "atlas": "",
+    "rect": [
+      49,
+      98,
+      36,
+      28
+    ],
+    "offset": [
+      3,
+      -48
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

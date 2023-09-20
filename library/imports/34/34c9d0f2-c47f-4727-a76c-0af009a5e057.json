@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_StudyGlassesIcon",
+    "texture": "fef275fe-5b22-494b-a32e-f12b14eb089c",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      24,
+      14
+    ],
+    "offset": [
+      -0.5,
+      1
+    ],
+    "originalSize": [
+      25,
+      20
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

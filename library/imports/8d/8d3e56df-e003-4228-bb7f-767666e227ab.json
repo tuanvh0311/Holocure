@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hud_LevelButton_1",
+    "texture": "09f10812-5444-4017-8362-3ea31fc6f5c0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      111,
+      27
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      111,
+      27
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

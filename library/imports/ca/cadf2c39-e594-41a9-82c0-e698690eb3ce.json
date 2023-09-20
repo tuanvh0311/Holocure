@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Upgrade icon outline",
+    "texture": "16e5dbbf-3d88-405e-b0ce-ff05f8642320",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      41,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      41,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

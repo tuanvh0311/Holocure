@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_Calli_run_1",
+    "texture": "5ea61b73-259c-4085-844d-9ee5d6f3d41c",
+    "atlas": "",
+    "rect": [
+      20,
+      51,
+      44,
+      49
+    ],
+    "offset": [
+      -9,
+      -24.5
+    ],
+    "originalSize": [
+      102,
+      102
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

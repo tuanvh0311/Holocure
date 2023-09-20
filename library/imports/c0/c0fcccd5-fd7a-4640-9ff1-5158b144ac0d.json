@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_empty_slot_weapon",
+    "texture": "850a3cc0-6612-40c4-b905-896d5e7d8540",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      11,
+      11
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      12,
+      11
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_Title_Gura",
+    "texture": "0c17e9eb-207b-4192-b767-3691b3f03f8e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      105,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      105,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

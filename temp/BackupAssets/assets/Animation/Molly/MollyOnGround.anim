@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "MollyOnGround",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 6,
+  "sample": 1,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "396a3149-38ef-4938-9cdb-72d50fc45cd0"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "5fb28c6e-6e7e-43e1-8cbb-aefc7475b5cb"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "396a3149-38ef-4938-9cdb-72d50fc45cd0"
+            }
+          },
+          {
+            "frame": 3,
+            "value": {
+              "__uuid__": "5fb28c6e-6e7e-43e1-8cbb-aefc7475b5cb"
+            }
+          },
+          {
+            "frame": 4,
+            "value": {
+              "__uuid__": "396a3149-38ef-4938-9cdb-72d50fc45cd0"
+            }
+          },
+          {
+            "frame": 5,
+            "value": {
+              "__uuid__": "5fb28c6e-6e7e-43e1-8cbb-aefc7475b5cb"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

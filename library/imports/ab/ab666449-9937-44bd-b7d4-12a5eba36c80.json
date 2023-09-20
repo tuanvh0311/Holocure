@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "LuanticWalking",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "6742ec39-1edc-4e68-b256-76f4fb861699"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "d8093f91-d14a-44f0-90d9-7810a3f4bb6e"
+            }
+          },
+          {
+            "frame": 0.625,
+            "value": {
+              "__uuid__": "20722aa4-316c-44ca-8a79-27970be91d8f"
+            }
+          },
+          {
+            "frame": 0.875,
+            "value": {
+              "__uuid__": "6742ec39-1edc-4e68-b256-76f4fb861699"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

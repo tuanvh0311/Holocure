@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Bloody Tear",
+    "texture": "65d949ae-0d93-4e7c-b52a-214ee3fbf22b",
+    "atlas": "",
+    "rect": [
+      11,
+      8,
+      21,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      43,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

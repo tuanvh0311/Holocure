@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_BandaidIcon",
+    "texture": "a0676c5b-dd80-4371-b24f-551fb698d53c",
+    "atlas": "",
+    "rect": [
+      4,
+      2,
+      18,
+      17
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      25,
+      20
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

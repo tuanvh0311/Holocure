@@ -1,0 +1,84 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "CharacterData",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "character": [
+      {
+        "name": "Calli",
+        "weapon": "Scythe",
+        "weaponDes": "Swings in a half circle arc in front.",
+        "stats": [
+          {
+            "health": 70,
+            "atk": 30,
+            "speed": 1,
+            "crit": 10
+          },
+          {
+            "health": 75,
+            "atk": 35,
+            "speed": 1.05,
+            "crit": 10
+          },
+          {
+            "health": 80,
+            "atk": 40,
+            "speed": 1.1,
+            "crit": 10
+          },
+          {
+            "health": 85,
+            "atk": 45,
+            "speed": 1.15,
+            "crit": 10
+          },
+          {
+            "health": 90,
+            "atk": 50,
+            "speed": 1.2,
+            "crit": 10
+          }
+        ]
+      },
+      {
+        "name": "Gura",
+        "weapon": "Trident",
+        "weaponDes": "Mid ranged stab attack in front.",
+        "stats": [
+          {
+            "health": 100,
+            "atk": 10,
+            "speed": 1.2,
+            "crit": 5
+          },
+          {
+            "health": 105,
+            "atk": 15,
+            "speed": 1.25,
+            "crit": 5
+          },
+          {
+            "health": 110,
+            "atk": 20,
+            "speed": 1.3,
+            "crit": 5
+          },
+          {
+            "health": 115,
+            "atk": 25,
+            "speed": 1.35,
+            "crit": 5
+          },
+          {
+            "health": 120,
+            "atk": 30,
+            "speed": 1.4,
+            "crit": 5
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_Calli_idle_1",
+    "texture": "68a40f4a-d2f0-4dd7-b4c0-38aea199b3c5",
+    "atlas": "",
+    "rect": [
+      20,
+      54,
+      41,
+      47
+    ],
+    "offset": [
+      -10.5,
+      -26.5
+    ],
+    "originalSize": [
+      102,
+      102
+    ],
+    "capInsets": [
+      2.5,
+      0.5,
+      1.5,
+      2.5
+    ]
+  }
+}

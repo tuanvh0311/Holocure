@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "trau3",
+    "texture": "f97c1a4d-4d02-42fe-ab47-3a97b1a7e897",
+    "atlas": "",
+    "rect": [
+      30,
+      48,
+      97,
+      77
+    ],
+    "offset": [
+      8,
+      -18
+    ],
+    "originalSize": [
+      141,
+      137
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

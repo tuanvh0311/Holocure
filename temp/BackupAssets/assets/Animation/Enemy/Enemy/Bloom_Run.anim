@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Bloom_Run",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.375,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "f6676bbc-a1d6-4af6-b893-3cadfd64a528"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "be4f33ce-34fb-4cea-8c63-fb5da57dc511"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "639542c0-e922-47c9-8303-71a488899c5e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,1159 @@
+{
+  "projectPath": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master",
+  "actualPlatform": "web-mobile",
+  "mtimes": {
+    "0f2f5366-4dbc-4215-adaa-be781775c08c": {
+      "assetMtime": 1691811935722,
+      "metaMtime": 1692328271059
+    },
+    "00d4b211-75b8-456a-bef4-c2c07568d53f": {
+      "assetMtime": 1694230835389,
+      "metaMtime": 1694230835468
+    },
+    "940e0f54-73cf-4509-9c54-3b0273c3f735": {
+      "assetMtime": 1694230835389,
+      "metaMtime": 1694230835468
+    },
+    "0294b182-7dfc-46e8-baff-70194e9a4141": {
+      "assetMtime": 1694401111038,
+      "metaMtime": 1694401111082
+    },
+    "f737bdbd-4611-4d90-8443-e3450c8db53e": {
+      "assetMtime": 1694401111038,
+      "metaMtime": 1694401111082
+    },
+    "0c55c45f-06f9-4b69-b933-912de73a6c7f": {
+      "assetMtime": 1694401111038,
+      "metaMtime": 1694401111090
+    },
+    "16c030f6-6f3a-4956-830a-ad7ccc092c6f": {
+      "assetMtime": 1694401111038,
+      "metaMtime": 1694401111090
+    },
+    "1250d2a8-caab-4b5c-a8cf-aaa99b0a6687": {
+      "assetMtime": 1691372479445,
+      "metaMtime": 1692328271902
+    },
+    "a2abbacc-77c6-43d7-b0b7-4de2671721ab": {
+      "assetMtime": 1691372479445,
+      "metaMtime": 1692328271902
+    },
+    "15027f83-ee86-4607-93e2-2e237fcb299e": {
+      "assetMtime": 1691372479395,
+      "metaMtime": 1692328271878
+    },
+    "6e9fe882-a18f-4afa-9f13-68d0bedc8188": {
+      "assetMtime": 1691372479395,
+      "metaMtime": 1692328271878
+    },
+    "1e328607-5671-44b5-be51-5914b7a2c271": {
+      "assetMtime": 1694402490713,
+      "metaMtime": 1694402490736
+    },
+    "d5058fe6-4b78-42e3-8c96-0f6d68cafa68": {
+      "assetMtime": 1694402490713,
+      "metaMtime": 1694402490736
+    },
+    "1ff4c6bd-74ae-4762-a4fc-e593c808b1e7": {
+      "assetMtime": 1694230835389,
+      "metaMtime": 1694230835453
+    },
+    "1739cbbe-aace-48a9-8746-22d6bfc7523a": {
+      "assetMtime": 1694230835389,
+      "metaMtime": 1694230835453
+    },
+    "269d8090-73ca-4bd2-9bd0-12df59dd062e": {
+      "assetMtime": 1694403110073,
+      "metaMtime": 1694403324687
+    },
+    "911b0920-501c-4535-bdb2-d6c7c86bf696": {
+      "assetMtime": 1694403110073,
+      "metaMtime": 1694403324687
+    },
+    "27b78dc7-3581-48ee-9ed0-8008792c3eee": {
+      "assetMtime": 1694230835389,
+      "metaMtime": 1694230835465
+    },
+    "bc93d751-3685-4b30-8838-f8f8592ae667": {
+      "assetMtime": 1694230835389,
+      "metaMtime": 1694230835465
+    },
+    "2f8a73fc-6869-4c3e-afb3-2f66a18b6ddb": {
+      "assetMtime": 1691124242716,
+      "metaMtime": 1692328271823
+    },
+    "0375ede1-c30f-4fa0-a058-c4a515323b5d": {
+      "assetMtime": 1691124242716,
+      "metaMtime": 1692328271823
+    },
+    "32e0901d-5712-45f5-aa68-f1a9cb415e0d": {
+      "assetMtime": 1691372479994,
+      "metaMtime": 1692328271949
+    },
+    "04b15f5a-4e73-445a-b57d-9b076d6410d8": {
+      "assetMtime": 1691372479994,
+      "metaMtime": 1692328271949
+    },
+    "341d3a38-8c9f-4a3c-a7c8-a42da678a347": {
+      "assetMtime": 1694401111038,
+      "metaMtime": 1694401111094
+    },
+    "2ea8b613-b6fe-4390-af31-4d3921e6ee5a": {
+      "assetMtime": 1694401111038,
+      "metaMtime": 1694401111094
+    },
+    "3e97d8ce-f6c1-4345-b5e0-3acd36d76c74": {
+      "assetMtime": 1691372479346,
+      "metaMtime": 1692328271844
+    },
+    "ac9d0954-081f-4841-afa5-a8928976b410": {
+      "assetMtime": 1691372479346,
+      "metaMtime": 1692328271844
+    },
+    "3eb2588f-4414-4867-95c4-43aee4080dc8": {
+      "assetMtime": 1694401111038,
+      "metaMtime": 1694401111086
+    },
+    "59d6b1e0-6ca7-44a5-a93e-42c54847c538": {
+      "assetMtime": 1694401111038,
+      "metaMtime": 1694401111086
+    },
+    "4796a2b3-2f51-419d-9e5b-ef327e9bfe58": {
+      "assetMtime": 1691372479941,
+      "metaMtime": 1692328271960
+    },
+    "596e0c3c-177b-4367-9336-1548a6de6a32": {
+      "assetMtime": 1691372479941,
+      "metaMtime": 1692328271960
+    },
+    "4a26c539-fcb7-4b5e-a566-fa51e2587a7e": {
+      "assetMtime": 1694230835389,
+      "metaMtime": 1694230835459
+    },
+    "45e265a6-08ee-4542-b8d5-485056f45751": {
+      "assetMtime": 1694230835389,
+      "metaMtime": 1694230835459
+    },
+    "4bb9b9ac-eee5-4246-a814-7651ce0e316b": {
+      "assetMtime": 1691372479203,
+      "metaMtime": 1692328271836
+    },
+    "b254e78c-8768-4741-a6f8-c40dcb532fed": {
+      "assetMtime": 1691372479203,
+      "metaMtime": 1692328271836
+    },
+    "62a3f5d6-8bb5-4dce-b829-4e6ae4c9f2f5": {
+      "assetMtime": 1694230835389,
+      "metaMtime": 1694230835485
+    },
+    "687274b2-0baa-4f12-9cc2-d2de14a201af": {
+      "assetMtime": 1694230835389,
+      "metaMtime": 1694230835485
+    },
+    "70dc8a6f-1c1b-4f19-8ca3-46ab6f2d571f": {
+      "assetMtime": 1694401111038,
+      "metaMtime": 1694401111098
+    },
+    "d8112039-2bda-4e81-b9c1-cb87531bf685": {
+      "assetMtime": 1694401111038,
+      "metaMtime": 1694401111098
+    },
+    "7d1a1872-a211-4e7e-b121-38e0e5b1e84f": {
+      "assetMtime": 1691372479494,
+      "metaMtime": 1692328271870
+    },
+    "9112c8c3-599a-4936-aa00-30839122c114": {
+      "assetMtime": 1691372479494,
+      "metaMtime": 1692328271870
+    },
+    "87bf758a-8978-470e-b4b7-678590697f2a": {
+      "assetMtime": 1694230835389,
+      "metaMtime": 1694230835474
+    },
+    "26486506-1d6a-4db1-897a-a9a8cbeadf56": {
+      "assetMtime": 1694230835389,
+      "metaMtime": 1694230835474
+    },
+    "9383b6bc-0d7b-4d7f-a703-11dad79a3d19": {
+      "assetMtime": 1691372479841,
+      "metaMtime": 1692328271962
+    },
+    "770f76e5-46a9-4c27-b3da-b7ffd04d1460": {
+      "assetMtime": 1691372479841,
+      "metaMtime": 1692328271962
+    },
+    "9b966bab-1654-44a0-995e-a5023f29e63e": {
+      "assetMtime": 1694230835390,
+      "metaMtime": 1694230835483
+    },
+    "9f99f97f-4651-4bed-a854-efd7a417eff6": {
+      "assetMtime": 1694230835390,
+      "metaMtime": 1694230835483
+    },
+    "a65aff90-5e18-4757-b320-22564108b2ed": {
+      "assetMtime": 1691372479894,
+      "metaMtime": 1692328271965
+    },
+    "2f66c810-6d40-4590-813e-c0920d4d892c": {
+      "assetMtime": 1691372479894,
+      "metaMtime": 1692328271965
+    },
+    "a66363fb-728a-4a7c-a688-811878cdf56c": {
+      "assetMtime": 1694230835390,
+      "metaMtime": 1694230835487
+    },
+    "24651469-b794-4189-aed0-c0fd7bca4a58": {
+      "assetMtime": 1694230835390,
+      "metaMtime": 1694230835487
+    },
+    "a686d145-670e-4ecc-b268-acbc438ad84a": {
+      "assetMtime": 1691372479298,
+      "metaMtime": 1692328271855
+    },
+    "be934408-729b-4102-a057-2c835b1d475e": {
+      "assetMtime": 1691372479298,
+      "metaMtime": 1692328271855
+    },
+    "bd0f71e2-1178-4bc5-882e-7c218a878401": {
+      "assetMtime": 1694241572922,
+      "metaMtime": 1694241572947
+    },
+    "08bc0611-9af7-4b99-b190-04d386905dc3": {
+      "assetMtime": 1694241572922,
+      "metaMtime": 1694241572947
+    },
+    "c181eeff-b9cc-49c3-b2c8-c74892d79c1b": {
+      "assetMtime": 1691372479100,
+      "metaMtime": 1692328271790
+    },
+    "b866f638-2f5e-43b8-bd1b-aa5bd591b240": {
+      "assetMtime": 1691372479100,
+      "metaMtime": 1692328271790
+    },
+    "c1d9791f-c477-4666-b3c1-a4270517d5ac": {
+      "assetMtime": 1691372479251,
+      "metaMtime": 1692328271838
+    },
+    "10f76949-5061-4510-8e54-aa663f8b3d09": {
+      "assetMtime": 1691372479251,
+      "metaMtime": 1692328271838
+    },
+    "d37b2e12-2b68-465a-ac51-49aea51693fa": {
+      "assetMtime": 1694401111038,
+      "metaMtime": 1694401111100
+    },
+    "54997437-62ac-4fd6-8f94-ec52875e0561": {
+      "assetMtime": 1694401111038,
+      "metaMtime": 1694401111100
+    },
+    "d92a6839-9d82-4576-8e80-d715e680a46d": {
+      "assetMtime": 1694230835389,
+      "metaMtime": 1694230835446
+    },
+    "781ff5cd-a8fe-4f39-a120-974e1f1ddc62": {
+      "assetMtime": 1694230835389,
+      "metaMtime": 1694230835446
+    },
+    "db1f6977-7a9b-489a-850b-808f9fb27736": {
+      "assetMtime": 1694230835389,
+      "metaMtime": 1694230835461
+    },
+    "43e81dbc-af6b-4120-b07e-471641c170c0": {
+      "assetMtime": 1694230835389,
+      "metaMtime": 1694230835461
+    },
+    "e5f28939-0173-4c4e-aa97-147daacb59ed": {
+      "assetMtime": 1694230835389,
+      "metaMtime": 1694230835464
+    },
+    "3ba2050e-d057-4b7b-b6e9-c9b04a5ffbbb": {
+      "assetMtime": 1694230835389,
+      "metaMtime": 1694230835464
+    },
+    "eb83c176-1571-4d05-bfd2-c08dc37399b7": {
+      "assetMtime": 1694401111038,
+      "metaMtime": 1694401111095
+    },
+    "59a1bbc2-7cd4-49fc-a070-68fa6ab04ecb": {
+      "assetMtime": 1694401111038,
+      "metaMtime": 1694401111095
+    },
+    "fa5d3023-b416-4242-b358-2a1f6c9f06b3": {
+      "assetMtime": 1694401111038,
+      "metaMtime": 1694401111092
+    },
+    "9cf59ebc-36e1-421b-8480-639095fddd00": {
+      "assetMtime": 1694401111038,
+      "metaMtime": 1694401111092
+    }
+  },
+  "result": {
+    "name": "AutoAtlas-2",
+    "width": 856,
+    "height": 747,
+    "ver": "1.2.5",
+    "uuid": "0f2f5366-4dbc-4215-adaa-be781775c08c",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "molly frame 7",
+            "uuid": "7d1a1872-a211-4e7e-b121-38e0e5b1e84f",
+            "textureUuid": "9112c8c3-599a-4936-aa00-30839122c114",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083629_image_19.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 432,
+              "height": 430,
+              "rotatedWidth": 432,
+              "rotatedHeight": 430
+            },
+            "rawWidth": 432,
+            "rawHeight": 432,
+            "width": 438,
+            "height": 436,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/91/9112c8c3-599a-4936-aa00-30839122c114.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 438,
+            "rotatedHeight": 436
+          },
+          {
+            "name": "molly frame 6",
+            "uuid": "1250d2a8-caab-4b5c-a8cf-aaa99b0a6687",
+            "textureUuid": "a2abbacc-77c6-43d7-b0b7-4de2671721ab",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083625_image_3.png",
+            "trim": {
+              "x": 441,
+              "y": 3,
+              "width": 432,
+              "height": 416,
+              "rotatedWidth": 432,
+              "rotatedHeight": 416
+            },
+            "rawWidth": 432,
+            "rawHeight": 432,
+            "width": 438,
+            "height": 422,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/a2/a2abbacc-77c6-43d7-b0b7-4de2671721ab.png",
+            "x": 438,
+            "y": 0,
+            "rotatedWidth": 438,
+            "rotatedHeight": 422
+          },
+          {
+            "name": "spr_GuraTridentThrust_1",
+            "uuid": "00d4b211-75b8-456a-bef4-c2c07568d53f",
+            "textureUuid": "940e0f54-73cf-4509-9c54-3b0273c3f735",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083624_image_0.png",
+            "trim": {
+              "x": 879,
+              "y": 3,
+              "width": 141,
+              "height": 26,
+              "rotatedWidth": 141,
+              "rotatedHeight": 26
+            },
+            "rawWidth": 200,
+            "rawHeight": 200,
+            "width": 147,
+            "height": 32,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/94/940e0f54-73cf-4509-9c54-3b0273c3f735.png",
+            "x": 876,
+            "y": 0,
+            "rotatedWidth": 147,
+            "rotatedHeight": 32
+          },
+          {
+            "name": "spr_GuraTridentThrust_0",
+            "uuid": "db1f6977-7a9b-489a-850b-808f9fb27736",
+            "textureUuid": "43e81dbc-af6b-4120-b07e-471641c170c0",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083632_image_31.png",
+            "trim": {
+              "x": 879,
+              "y": 35,
+              "width": 141,
+              "height": 26,
+              "rotatedWidth": 141,
+              "rotatedHeight": 26
+            },
+            "rawWidth": 200,
+            "rawHeight": 200,
+            "width": 147,
+            "height": 32,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/43/43e81dbc-af6b-4120-b07e-471641c170c0.png",
+            "x": 876,
+            "y": 32,
+            "rotatedWidth": 147,
+            "rotatedHeight": 32
+          },
+          {
+            "name": "spr_GuraTridentThrust_2",
+            "uuid": "4a26c539-fcb7-4b5e-a566-fa51e2587a7e",
+            "textureUuid": "45e265a6-08ee-4542-b8d5-485056f45751",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083628_image_15.png",
+            "trim": {
+              "x": 879,
+              "y": 67,
+              "width": 115,
+              "height": 22,
+              "rotatedWidth": 115,
+              "rotatedHeight": 22
+            },
+            "rawWidth": 200,
+            "rawHeight": 200,
+            "width": 121,
+            "height": 28,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/45/45e265a6-08ee-4542-b8d5-485056f45751.png",
+            "x": 876,
+            "y": 64,
+            "rotatedWidth": 121,
+            "rotatedHeight": 28
+          },
+          {
+            "name": "spr_GuraTridentThrust_5",
+            "uuid": "27b78dc7-3581-48ee-9ed0-8008792c3eee",
+            "textureUuid": "bc93d751-3685-4b30-8838-f8f8592ae667",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083626_image_8.png",
+            "trim": {
+              "x": 1000,
+              "y": 67,
+              "width": 94,
+              "height": 20,
+              "rotatedWidth": 20,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 200,
+            "rawHeight": 200,
+            "width": 100,
+            "height": 26,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/bc/bc93d751-3685-4b30-8838-f8f8592ae667.png",
+            "x": 997,
+            "y": 64,
+            "rotated": true,
+            "rotatedWidth": 26,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "spr_GuraTridentThrust_3",
+            "uuid": "d92a6839-9d82-4576-8e80-d715e680a46d",
+            "textureUuid": "781ff5cd-a8fe-4f39-a120-974e1f1ddc62",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083632_image_30.png",
+            "trim": {
+              "x": 879,
+              "y": 95,
+              "width": 115,
+              "height": 22,
+              "rotatedWidth": 115,
+              "rotatedHeight": 22
+            },
+            "rawWidth": 200,
+            "rawHeight": 200,
+            "width": 121,
+            "height": 28,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/78/781ff5cd-a8fe-4f39-a120-974e1f1ddc62.png",
+            "x": 876,
+            "y": 92,
+            "rotatedWidth": 121,
+            "rotatedHeight": 28
+          },
+          {
+            "name": "2",
+            "uuid": "0294b182-7dfc-46e8-baff-70194e9a4141",
+            "textureUuid": "f737bdbd-4611-4d90-8443-e3450c8db53e",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083624_image_1.png",
+            "trim": {
+              "x": 879,
+              "y": 123,
+              "width": 101,
+              "height": 101,
+              "rotatedWidth": 101,
+              "rotatedHeight": 101
+            },
+            "rawWidth": 102,
+            "rawHeight": 105,
+            "width": 107,
+            "height": 107,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/f7/f737bdbd-4611-4d90-8443-e3450c8db53e.png",
+            "x": 876,
+            "y": 120,
+            "rotatedWidth": 107,
+            "rotatedHeight": 107
+          },
+          {
+            "name": "Axe",
+            "uuid": "c181eeff-b9cc-49c3-b2c8-c74892d79c1b",
+            "textureUuid": "b866f638-2f5e-43b8-bd1b-aa5bd591b240",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083631_image_27.png",
+            "trim": {
+              "x": 986,
+              "y": 167,
+              "width": 35,
+              "height": 26,
+              "rotatedWidth": 35,
+              "rotatedHeight": 26
+            },
+            "rawWidth": 35,
+            "rawHeight": 26,
+            "width": 41,
+            "height": 32,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/b8/b866f638-2f5e-43b8-bd1b-aa5bd591b240.png",
+            "x": 983,
+            "y": 164,
+            "rotatedWidth": 41,
+            "rotatedHeight": 32
+          },
+          {
+            "name": "spr_CEOTears",
+            "uuid": "1e328607-5671-44b5-be51-5914b7a2c271",
+            "textureUuid": "d5058fe6-4b78-42e3-8c96-0f6d68cafa68",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083625_image_5.png",
+            "trim": {
+              "x": 986,
+              "y": 123,
+              "width": 10,
+              "height": 8,
+              "rotatedWidth": 8,
+              "rotatedHeight": 10
+            },
+            "rawWidth": 10,
+            "rawHeight": 8,
+            "width": 16,
+            "height": 14,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/d5/d5058fe6-4b78-42e3-8c96-0f6d68cafa68.png",
+            "x": 983,
+            "y": 120,
+            "rotated": true,
+            "rotatedWidth": 14,
+            "rotatedHeight": 16
+          },
+          {
+            "name": "spr_GuraTridentThrust_10",
+            "uuid": "1ff4c6bd-74ae-4762-a4fc-e593c808b1e7",
+            "textureUuid": "1739cbbe-aace-48a9-8746-22d6bfc7523a",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083626_image_6.png",
+            "trim": {
+              "x": 986,
+              "y": 139,
+              "width": 1,
+              "height": 1,
+              "rotatedWidth": 1,
+              "rotatedHeight": 1
+            },
+            "rawWidth": 200,
+            "rawHeight": 200,
+            "width": 7,
+            "height": 7,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/17/1739cbbe-aace-48a9-8746-22d6bfc7523a.png",
+            "x": 983,
+            "y": 136,
+            "rotatedWidth": 7,
+            "rotatedHeight": 7
+          },
+          {
+            "name": "spr_SpiderCookingIcon",
+            "uuid": "bd0f71e2-1178-4bc5-882e-7c218a878401",
+            "textureUuid": "08bc0611-9af7-4b99-b190-04d386905dc3",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083631_image_26.png",
+            "trim": {
+              "x": 986,
+              "y": 199,
+              "width": 24,
+              "height": 20,
+              "rotatedWidth": 24,
+              "rotatedHeight": 20
+            },
+            "rawWidth": 25,
+            "rawHeight": 20,
+            "width": 30,
+            "height": 26,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/08/08bc0611-9af7-4b99-b190-04d386905dc3.png",
+            "x": 983,
+            "y": 196,
+            "rotatedWidth": 30,
+            "rotatedHeight": 26
+          },
+          {
+            "name": "spr_GuraTridentThrust_4",
+            "uuid": "e5f28939-0173-4c4e-aa97-147daacb59ed",
+            "textureUuid": "3ba2050e-d057-4b7b-b6e9-c9b04a5ffbbb",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083632_image_32.png",
+            "trim": {
+              "x": 986,
+              "y": 225,
+              "width": 94,
+              "height": 20,
+              "rotatedWidth": 20,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 200,
+            "rawHeight": 200,
+            "width": 100,
+            "height": 26,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/3b/3ba2050e-d057-4b7b-b6e9-c9b04a5ffbbb.png",
+            "x": 983,
+            "y": 222,
+            "rotated": true,
+            "rotatedWidth": 26,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "7",
+            "uuid": "0c55c45f-06f9-4b69-b933-912de73a6c7f",
+            "textureUuid": "16c030f6-6f3a-4956-830a-ad7ccc092c6f",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083625_image_2.png",
+            "trim": {
+              "x": 879,
+              "y": 230,
+              "width": 101,
+              "height": 101,
+              "rotatedWidth": 101,
+              "rotatedHeight": 101
+            },
+            "rawWidth": 102,
+            "rawHeight": 105,
+            "width": 107,
+            "height": 107,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/16/16c030f6-6f3a-4956-830a-ad7ccc092c6f.png",
+            "x": 876,
+            "y": 227,
+            "rotatedWidth": 107,
+            "rotatedHeight": 107
+          },
+          {
+            "name": "spr_GuraTridentThrust_8",
+            "uuid": "9b966bab-1654-44a0-995e-a5023f29e63e",
+            "textureUuid": "9f99f97f-4651-4bed-a854-efd7a417eff6",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083630_image_22.png",
+            "trim": {
+              "x": 1012,
+              "y": 225,
+              "width": 49,
+              "height": 6,
+              "rotatedWidth": 6,
+              "rotatedHeight": 49
+            },
+            "rawWidth": 200,
+            "rawHeight": 200,
+            "width": 55,
+            "height": 12,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/9f/9f99f97f-4651-4bed-a854-efd7a417eff6.png",
+            "x": 1009,
+            "y": 222,
+            "rotated": true,
+            "rotatedWidth": 12,
+            "rotatedHeight": 55
+          },
+          {
+            "name": "spr_GuraTridentThrust_9",
+            "uuid": "a66363fb-728a-4a7c-a688-811878cdf56c",
+            "textureUuid": "24651469-b794-4189-aed0-c0fd7bca4a58",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083630_image_24.png",
+            "trim": {
+              "x": 1012,
+              "y": 280,
+              "width": 49,
+              "height": 6,
+              "rotatedWidth": 6,
+              "rotatedHeight": 49
+            },
+            "rawWidth": 200,
+            "rawHeight": 200,
+            "width": 55,
+            "height": 12,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/24/24651469-b794-4189-aed0-c0fd7bca4a58.png",
+            "x": 1009,
+            "y": 277,
+            "rotated": true,
+            "rotatedWidth": 12,
+            "rotatedHeight": 55
+          },
+          {
+            "name": "spr_CEOTearsIcon",
+            "uuid": "269d8090-73ca-4bd2-9bd0-12df59dd062e",
+            "textureUuid": "911b0920-501c-4535-bdb2-d6c7c86bf696",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083626_image_7.png",
+            "trim": {
+              "x": 986,
+              "y": 325,
+              "width": 18,
+              "height": 18,
+              "rotatedWidth": 18,
+              "rotatedHeight": 18
+            },
+            "rawWidth": 22,
+            "rawHeight": 22,
+            "width": 24,
+            "height": 24,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/91/911b0920-501c-4535-bdb2-d6c7c86bf696.png",
+            "x": 983,
+            "y": 322,
+            "rotatedWidth": 24,
+            "rotatedHeight": 24
+          },
+          {
+            "name": "3",
+            "uuid": "341d3a38-8c9f-4a3c-a7c8-a42da678a347",
+            "textureUuid": "2ea8b613-b6fe-4390-af31-4d3921e6ee5a",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083627_image_11.png",
+            "trim": {
+              "x": 879,
+              "y": 337,
+              "width": 101,
+              "height": 101,
+              "rotatedWidth": 101,
+              "rotatedHeight": 101
+            },
+            "rawWidth": 102,
+            "rawHeight": 105,
+            "width": 107,
+            "height": 107,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/2e/2ea8b613-b6fe-4390-af31-4d3921e6ee5a.png",
+            "x": 876,
+            "y": 334,
+            "rotatedWidth": 107,
+            "rotatedHeight": 107
+          },
+          {
+            "name": "molly frame 4",
+            "uuid": "3e97d8ce-f6c1-4345-b5e0-3acd36d76c74",
+            "textureUuid": "ac9d0954-081f-4841-afa5-a8928976b410",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083627_image_12.png",
+            "trim": {
+              "x": 441,
+              "y": 425,
+              "width": 432,
+              "height": 416,
+              "rotatedWidth": 432,
+              "rotatedHeight": 416
+            },
+            "rawWidth": 434,
+            "rawHeight": 434,
+            "width": 438,
+            "height": 422,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/ac/ac9d0954-081f-4841-afa5-a8928976b410.png",
+            "x": 438,
+            "y": 422,
+            "rotatedWidth": 438,
+            "rotatedHeight": 422
+          },
+          {
+            "name": "molly frame 3",
+            "uuid": "a686d145-670e-4ecc-b268-acbc438ad84a",
+            "textureUuid": "be934408-729b-4102-a057-2c835b1d475e",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083631_image_25.png",
+            "trim": {
+              "x": 3,
+              "y": 439,
+              "width": 432,
+              "height": 385,
+              "rotatedWidth": 432,
+              "rotatedHeight": 385
+            },
+            "rawWidth": 433,
+            "rawHeight": 433,
+            "width": 438,
+            "height": 391,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/be/be934408-729b-4102-a057-2c835b1d475e.png",
+            "x": 0,
+            "y": 436,
+            "rotatedWidth": 438,
+            "rotatedHeight": 391
+          },
+          {
+            "name": "Slash1",
+            "uuid": "a65aff90-5e18-4757-b320-22564108b2ed",
+            "textureUuid": "2f66c810-6d40-4590-813e-c0920d4d892c",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083630_image_23.png",
+            "trim": {
+              "x": 3,
+              "y": 847,
+              "width": 172,
+              "height": 176,
+              "rotatedWidth": 176,
+              "rotatedHeight": 172
+            },
+            "rawWidth": 172,
+            "rawHeight": 176,
+            "width": 178,
+            "height": 182,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/2f/2f66c810-6d40-4590-813e-c0920d4d892c.png",
+            "x": 0,
+            "y": 844,
+            "rotated": true,
+            "rotatedWidth": 182,
+            "rotatedHeight": 178
+          },
+          {
+            "name": "Slash3",
+            "uuid": "32e0901d-5712-45f5-aa68-f1a9cb415e0d",
+            "textureUuid": "04b15f5a-4e73-445a-b57d-9b076d6410d8",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083626_image_10.png",
+            "trim": {
+              "x": 185,
+              "y": 847,
+              "width": 172,
+              "height": 175,
+              "rotatedWidth": 175,
+              "rotatedHeight": 172
+            },
+            "rawWidth": 172,
+            "rawHeight": 176,
+            "width": 178,
+            "height": 181,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/04/04b15f5a-4e73-445a-b57d-9b076d6410d8.png",
+            "x": 182,
+            "y": 844,
+            "rotated": true,
+            "rotatedWidth": 181,
+            "rotatedHeight": 178
+          },
+          {
+            "name": "spr_GuraTridentThrust_7",
+            "uuid": "62a3f5d6-8bb5-4dce-b829-4e6ae4c9f2f5",
+            "textureUuid": "687274b2-0baa-4f12-9cc2-d2de14a201af",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083628_image_17.png",
+            "trim": {
+              "x": 366,
+              "y": 830,
+              "width": 64,
+              "height": 16,
+              "rotatedWidth": 64,
+              "rotatedHeight": 16
+            },
+            "rawWidth": 200,
+            "rawHeight": 200,
+            "width": 70,
+            "height": 22,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/68/687274b2-0baa-4f12-9cc2-d2de14a201af.png",
+            "x": 363,
+            "y": 827,
+            "rotatedWidth": 70,
+            "rotatedHeight": 22
+          },
+          {
+            "name": "Slash2",
+            "uuid": "4796a2b3-2f51-419d-9e5b-ef327e9bfe58",
+            "textureUuid": "596e0c3c-177b-4367-9336-1548a6de6a32",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083628_image_14.png",
+            "trim": {
+              "x": 366,
+              "y": 852,
+              "width": 164,
+              "height": 176,
+              "rotatedWidth": 176,
+              "rotatedHeight": 164
+            },
+            "rawWidth": 172,
+            "rawHeight": 176,
+            "width": 170,
+            "height": 182,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/59/596e0c3c-177b-4367-9336-1548a6de6a32.png",
+            "x": 363,
+            "y": 849,
+            "rotated": true,
+            "rotatedWidth": 182,
+            "rotatedHeight": 170
+          },
+          {
+            "name": "spr_GuraTridentThrust_6",
+            "uuid": "87bf758a-8978-470e-b4b7-678590697f2a",
+            "textureUuid": "26486506-1d6a-4db1-897a-a9a8cbeadf56",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083629_image_20.png",
+            "trim": {
+              "x": 986,
+              "y": 349,
+              "width": 64,
+              "height": 16,
+              "rotatedWidth": 16,
+              "rotatedHeight": 64
+            },
+            "rawWidth": 200,
+            "rawHeight": 200,
+            "width": 70,
+            "height": 22,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/26/26486506-1d6a-4db1-897a-a9a8cbeadf56.png",
+            "x": 983,
+            "y": 346,
+            "rotated": true,
+            "rotatedWidth": 22,
+            "rotatedHeight": 70
+          },
+          {
+            "name": "6",
+            "uuid": "3eb2588f-4414-4867-95c4-43aee4080dc8",
+            "textureUuid": "59d6b1e0-6ca7-44a5-a93e-42c54847c538",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083627_image_13.png",
+            "trim": {
+              "x": 879,
+              "y": 444,
+              "width": 101,
+              "height": 101,
+              "rotatedWidth": 101,
+              "rotatedHeight": 101
+            },
+            "rawWidth": 102,
+            "rawHeight": 105,
+            "width": 107,
+            "height": 107,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/59/59d6b1e0-6ca7-44a5-a93e-42c54847c538.png",
+            "x": 876,
+            "y": 441,
+            "rotatedWidth": 107,
+            "rotatedHeight": 107
+          },
+          {
+            "name": "5",
+            "uuid": "70dc8a6f-1c1b-4f19-8ca3-46ab6f2d571f",
+            "textureUuid": "d8112039-2bda-4e81-b9c1-cb87531bf685",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083629_image_18.png",
+            "trim": {
+              "x": 879,
+              "y": 551,
+              "width": 101,
+              "height": 101,
+              "rotatedWidth": 101,
+              "rotatedHeight": 101
+            },
+            "rawWidth": 102,
+            "rawHeight": 105,
+            "width": 107,
+            "height": 107,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/d8/d8112039-2bda-4e81-b9c1-cb87531bf685.png",
+            "x": 876,
+            "y": 548,
+            "rotatedWidth": 107,
+            "rotatedHeight": 107
+          },
+          {
+            "name": "8",
+            "uuid": "d37b2e12-2b68-465a-ac51-49aea51693fa",
+            "textureUuid": "54997437-62ac-4fd6-8f94-ec52875e0561",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083632_image_29.png",
+            "trim": {
+              "x": 879,
+              "y": 658,
+              "width": 101,
+              "height": 101,
+              "rotatedWidth": 101,
+              "rotatedHeight": 101
+            },
+            "rawWidth": 102,
+            "rawHeight": 105,
+            "width": 107,
+            "height": 107,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/54/54997437-62ac-4fd6-8f94-ec52875e0561.png",
+            "x": 876,
+            "y": 655,
+            "rotatedWidth": 107,
+            "rotatedHeight": 107
+          },
+          {
+            "name": "4",
+            "uuid": "eb83c176-1571-4d05-bfd2-c08dc37399b7",
+            "textureUuid": "59a1bbc2-7cd4-49fc-a070-68fa6ab04ecb",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083633_image_33.png",
+            "trim": {
+              "x": 879,
+              "y": 765,
+              "width": 101,
+              "height": 101,
+              "rotatedWidth": 101,
+              "rotatedHeight": 101
+            },
+            "rawWidth": 102,
+            "rawHeight": 105,
+            "width": 107,
+            "height": 107,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/59/59a1bbc2-7cd4-49fc-a070-68fa6ab04ecb.png",
+            "x": 876,
+            "y": 762,
+            "rotatedWidth": 107,
+            "rotatedHeight": 107
+          },
+          {
+            "name": "9",
+            "uuid": "fa5d3023-b416-4242-b358-2a1f6c9f06b3",
+            "textureUuid": "9cf59ebc-36e1-421b-8480-639095fddd00",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083633_image_34.png",
+            "trim": {
+              "x": 548,
+              "y": 872,
+              "width": 101,
+              "height": 101,
+              "rotatedWidth": 101,
+              "rotatedHeight": 101
+            },
+            "rawWidth": 102,
+            "rawHeight": 105,
+            "width": 107,
+            "height": 107,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/9c/9cf59ebc-36e1-421b-8480-639095fddd00.png",
+            "x": 545,
+            "y": 869,
+            "rotatedWidth": 107,
+            "rotatedHeight": 107
+          }
+        ],
+        "width": 1024,
+        "height": 1022,
+        "name": "AutoAtlas-1",
+        "imagePath": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\TexturePacker\\build\\native\\assets\\Texture\\Sprite\\Weapon\\AutoAtlas.pac\\AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\TexturePacker\\build\\native\\assets\\Texture\\Sprite\\Weapon\\AutoAtlas.pac\\compressed\\AutoAtlas-1"
+        }
+      },
+      {
+        "files": [
+          {
+            "name": "molly frame 5",
+            "uuid": "15027f83-ee86-4607-93e2-2e237fcb299e",
+            "textureUuid": "6e9fe882-a18f-4afa-9f13-68d0bedc8188",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083625_image_4.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 431,
+              "height": 417,
+              "rotatedWidth": 431,
+              "rotatedHeight": 417
+            },
+            "rawWidth": 432,
+            "rawHeight": 432,
+            "width": 437,
+            "height": 423,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/6e/6e9fe882-a18f-4afa-9f13-68d0bedc8188.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 437,
+            "rotatedHeight": 423
+          },
+          {
+            "name": "molly frame 2",
+            "uuid": "c1d9791f-c477-4666-b3c1-a4270517d5ac",
+            "textureUuid": "10f76949-5061-4510-8e54-aa663f8b3d09",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083632_image_28.png",
+            "trim": {
+              "x": 440,
+              "y": 3,
+              "width": 413,
+              "height": 369,
+              "rotatedWidth": 413,
+              "rotatedHeight": 369
+            },
+            "rawWidth": 413,
+            "rawHeight": 413,
+            "width": 419,
+            "height": 375,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/10/10f76949-5061-4510-8e54-aa663f8b3d09.png",
+            "x": 437,
+            "y": 0,
+            "rotatedWidth": 419,
+            "rotatedHeight": 375
+          },
+          {
+            "name": "molly frame 1",
+            "uuid": "4bb9b9ac-eee5-4246-a814-7651ce0e316b",
+            "textureUuid": "b254e78c-8768-4741-a6f8-c40dcb532fed",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083628_image_16.png",
+            "trim": {
+              "x": 440,
+              "y": 378,
+              "width": 367,
+              "height": 366,
+              "rotatedWidth": 367,
+              "rotatedHeight": 366
+            },
+            "rawWidth": 367,
+            "rawHeight": 366,
+            "width": 373,
+            "height": 372,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/b2/b254e78c-8768-4741-a6f8-c40dcb532fed.png",
+            "x": 437,
+            "y": 375,
+            "rotatedWidth": 373,
+            "rotatedHeight": 372
+          },
+          {
+            "name": "cau lua",
+            "uuid": "2f8a73fc-6869-4c3e-afb3-2f66a18b6ddb",
+            "textureUuid": "0375ede1-c30f-4fa0-a058-c4a515323b5d",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083626_image_9.png",
+            "trim": {
+              "x": 3,
+              "y": 426,
+              "width": 240,
+              "height": 240,
+              "rotatedWidth": 240,
+              "rotatedHeight": 240
+            },
+            "rawWidth": 240,
+            "rawHeight": 240,
+            "width": 246,
+            "height": 246,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/03/0375ede1-c30f-4fa0-a058-c4a515323b5d.png",
+            "x": 0,
+            "y": 423,
+            "rotatedWidth": 246,
+            "rotatedHeight": 246
+          }
+        ],
+        "width": 856,
+        "height": 747,
+        "name": "AutoAtlas-2",
+        "imagePath": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\TexturePacker\\build\\native\\assets\\Texture\\Sprite\\Weapon\\AutoAtlas.pac\\AutoAtlas-2.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\TexturePacker\\build\\native\\assets\\Texture\\Sprite\\Weapon\\AutoAtlas.pac\\compressed\\AutoAtlas-2"
+        }
+      }
+    ],
+    "unpackedTextures": [
+      {
+        "name": "Shuriken",
+        "uuid": "9383b6bc-0d7b-4d7f-a703-11dad79a3d19",
+        "textureUuid": "770f76e5-46a9-4c27-b3da-b7ffd04d1460",
+        "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694408083630_image_21.png",
+        "trim": {
+          "x": 0,
+          "y": 0,
+          "width": 1395,
+          "height": 1395,
+          "rotatedWidth": 1395,
+          "rotatedHeight": 1395
+        },
+        "rawWidth": 1395,
+        "rawHeight": 1395,
+        "width": 1401,
+        "height": 1401,
+        "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/77/770f76e5-46a9-4c27-b3da-b7ffd04d1460.png"
+      }
+    ]
+  }
+}

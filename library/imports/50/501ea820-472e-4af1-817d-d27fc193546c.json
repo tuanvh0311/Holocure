@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "menu_dressroom",
+    "texture": "53db41c7-0695-4eaa-8615-785b9c258bdd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      81,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      81,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

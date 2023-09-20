@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_SaplingB_0",
+    "texture": "f743df93-2520-433a-ad84-1bf9dc0a60c2",
+    "atlas": "",
+    "rect": [
+      15,
+      32,
+      34,
+      26
+    ],
+    "offset": [
+      0,
+      -13
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

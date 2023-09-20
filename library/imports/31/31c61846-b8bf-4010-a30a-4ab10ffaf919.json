@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Growth pill",
+    "texture": "7584e528-5fa2-4715-8978-524c987451db",
+    "atlas": "",
+    "rect": [
+      20,
+      14,
+      16,
+      16
+    ],
+    "offset": [
+      0.5,
+      -2
+    ],
+    "originalSize": [
+      55,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

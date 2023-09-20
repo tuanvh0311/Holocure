@@ -1,0 +1,67 @@
+{
+  "projectPath": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master",
+  "actualPlatform": "web-mobile",
+  "mtimes": {
+    "c3b6e059-b78c-4a0e-a081-d225ee841fae": {
+      "assetMtime": 1691811915312,
+      "metaMtime": 1692328270714
+    },
+    "338203b2-1ec5-4e27-89f6-071bf77712ca": {
+      "assetMtime": 1691372477509,
+      "metaMtime": 1692328270910
+    },
+    "2c3d62a6-3d7a-4c44-87ea-e6edaba2f810": {
+      "assetMtime": 1691372477509,
+      "metaMtime": 1692328270910
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.5",
+    "uuid": "c3b6e059-b78c-4a0e-a081-d225ee841fae",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [],
+    "unpackedTextures": [
+      {
+        "name": "map",
+        "uuid": "338203b2-1ec5-4e27-89f6-071bf77712ca",
+        "textureUuid": "2c3d62a6-3d7a-4c44-87ea-e6edaba2f810",
+        "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1693991759621_image_0.png",
+        "trim": {
+          "x": 0,
+          "y": 0,
+          "width": 1283,
+          "height": 1283,
+          "rotatedWidth": 1283,
+          "rotatedHeight": 1283
+        },
+        "rawWidth": 1283,
+        "rawHeight": 1283,
+        "width": 1289,
+        "height": 1289,
+        "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/2c/2c3d62a6-3d7a-4c44-87ea-e6edaba2f810.png"
+      }
+    ]
+  }
+}

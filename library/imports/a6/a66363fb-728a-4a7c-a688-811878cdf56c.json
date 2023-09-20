@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_GuraTridentThrust_9",
+    "texture": "24651469-b794-4189-aed0-c0fd7bca4a58",
+    "atlas": "",
+    "rect": [
+      120,
+      115,
+      49,
+      6
+    ],
+    "offset": [
+      44.5,
+      -18
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

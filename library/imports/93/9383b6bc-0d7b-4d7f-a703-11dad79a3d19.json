@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Shuriken",
+    "texture": "770f76e5-46a9-4c27-b3da-b7ffd04d1460",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1395,
+      1395
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1395,
+      1395
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

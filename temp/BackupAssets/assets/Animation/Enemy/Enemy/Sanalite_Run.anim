@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Sanalite_Run",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.375,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8db9d9c9-0ad7-4fa7-9d76-8b35c80b3259"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "16d1ef2b-bba4-4864-aebc-4f7818c36209"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "ecae5222-06e3-4165-9dcc-324c4b2843e3"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

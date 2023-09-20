@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GrassHillsWater",
+    "texture": "1c016c42-ec8e-4919-9ff0-c8853c27ca7d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      160,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

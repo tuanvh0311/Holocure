@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "65d949ae-0d93-4e7c-b52a-214ee3fbf22b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 43,
+  "height": 41,
+  "platformSettings": {},
+  "subMetas": {
+    "Bloody Tear": {
+      "ver": "1.0.6",
+      "uuid": "98b6c5e5-9305-4cf1-a0bb-f8924d46b9fa",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "65d949ae-0d93-4e7c-b52a-214ee3fbf22b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 11,
+      "trimY": 8,
+      "width": 21,
+      "height": 25,
+      "rawWidth": 43,
+      "rawHeight": 41,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

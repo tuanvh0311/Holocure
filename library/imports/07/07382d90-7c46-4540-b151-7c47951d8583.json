@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qua cau lua",
+    "texture": "77df311c-3d40-4594-a5e8-4064d801053e",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      304,
+      428
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      307,
+      428
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

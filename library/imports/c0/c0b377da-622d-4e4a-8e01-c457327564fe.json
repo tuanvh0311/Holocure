@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Upgrade Selection Arrow",
+    "texture": "c2c427f9-bf9a-46f6-8f1a-1fa529fdd82b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      89,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      98
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

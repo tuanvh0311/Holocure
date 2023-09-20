@@ -1,0 +1,742 @@
+{
+  "projectPath": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master",
+  "actualPlatform": "web-mobile",
+  "mtimes": {
+    "c350f6e4-4635-486f-bcc9-ec8c59dbadc2": {
+      "assetMtime": 1691811923600,
+      "metaMtime": 1692328270873
+    },
+    "007844dc-bf37-48af-bce7-6a9e19c1c825": {
+      "assetMtime": 1694504919214,
+      "metaMtime": 1694504919252
+    },
+    "68415a73-c05e-414b-b2fb-6bf48dc1d2ba": {
+      "assetMtime": 1694504919214,
+      "metaMtime": 1694504919252
+    },
+    "2874f8aa-be0d-463d-9454-6015d24d3122": {
+      "assetMtime": 1691833603373,
+      "metaMtime": 1692328271043
+    },
+    "42145522-dde2-41fd-b479-b679c1ba29b4": {
+      "assetMtime": 1691833603373,
+      "metaMtime": 1692328271043
+    },
+    "2f047332-0ae4-4cd5-b5f1-4f54a6a0fdda": {
+      "assetMtime": 1691984157399,
+      "metaMtime": 1692328271052
+    },
+    "215d1772-3333-42b0-8d49-682898b2b287": {
+      "assetMtime": 1691984157399,
+      "metaMtime": 1692328271052
+    },
+    "2fa27978-1df9-4ee6-b0c9-6579786e2904": {
+      "assetMtime": 1694504919214,
+      "metaMtime": 1694504919250
+    },
+    "45b05a9b-cc21-43f4-bd75-e1f15b4d8b27": {
+      "assetMtime": 1694504919214,
+      "metaMtime": 1694504919250
+    },
+    "3b046edb-786b-4a21-aaf3-a70fb9fe3ee3": {
+      "assetMtime": 1693381291070,
+      "metaMtime": 1693381299130
+    },
+    "2a15eec5-5ca7-4a95-9219-955e0d0b50fc": {
+      "assetMtime": 1693381291070,
+      "metaMtime": 1693381299130
+    },
+    "50097170-5be8-468a-b1d8-f5df9730c22e": {
+      "assetMtime": 1691809955774,
+      "metaMtime": 1692328271069
+    },
+    "65011263-9a9e-4ebc-83a7-253c4b7045b3": {
+      "assetMtime": 1691809955774,
+      "metaMtime": 1692328271069
+    },
+    "5a750006-c8ba-4dc8-a918-f43f1383ad24": {
+      "assetMtime": 1691372478801,
+      "metaMtime": 1692328271118
+    },
+    "95ebe953-9db4-4743-8360-cb87c15398f1": {
+      "assetMtime": 1691372478801,
+      "metaMtime": 1692328271118
+    },
+    "73c3f9af-e980-4a86-b576-4aefb643cf03": {
+      "assetMtime": 1691985324270,
+      "metaMtime": 1692328271056
+    },
+    "0b96bb4c-d7ca-4016-9eda-549c0bcf5594": {
+      "assetMtime": 1691985324270,
+      "metaMtime": 1692328271056
+    },
+    "8ada13f4-0502-42fa-b3b7-a51397660525": {
+      "assetMtime": 1692256170134,
+      "metaMtime": 1692328270960
+    },
+    "f65890f6-3427-49ed-8804-e077d909c7cf": {
+      "assetMtime": 1692256170134,
+      "metaMtime": 1692328270960
+    },
+    "9ed25358-08f5-4891-87af-033640c38c5f": {
+      "assetMtime": 1692256170135,
+      "metaMtime": 1692328270997
+    },
+    "bc1ed61a-a8ef-4d17-9cb6-3d2f0a568139": {
+      "assetMtime": 1692256170135,
+      "metaMtime": 1692328270997
+    },
+    "a2b28bf9-3510-4d3c-8ceb-84435992d58d": {
+      "assetMtime": 1691829799017,
+      "metaMtime": 1692328270980
+    },
+    "2a0eda26-8693-4e9d-82af-933d8814f51a": {
+      "assetMtime": 1691829799017,
+      "metaMtime": 1692328270980
+    },
+    "a63cc430-0cb1-4117-9cf9-e499de120be4": {
+      "assetMtime": 1691986720760,
+      "metaMtime": 1692328271014
+    },
+    "37e2125b-079c-49c9-8d0c-cfb5672ae4a6": {
+      "assetMtime": 1691986720760,
+      "metaMtime": 1692328271014
+    },
+    "a75aee1f-32ed-48e1-b2d9-d2790f1176f6": {
+      "assetMtime": 1692256170134,
+      "metaMtime": 1692328270994
+    },
+    "5f123ea6-30e1-4daa-a702-ce32d481a8a2": {
+      "assetMtime": 1692256170134,
+      "metaMtime": 1692328270994
+    },
+    "ae5cb7b6-75d8-4570-8a25-e43d7156aec5": {
+      "assetMtime": 1691984561443,
+      "metaMtime": 1692328270976
+    },
+    "dd1a9039-6098-4bbc-aec9-a243f38a4fa5": {
+      "assetMtime": 1691984561443,
+      "metaMtime": 1692328270976
+    },
+    "bf16591a-2475-42fe-88ae-379b89a41ad3": {
+      "assetMtime": 1692256170135,
+      "metaMtime": 1692328270968
+    },
+    "c7fcce2c-2528-4f13-ac14-e6918cc4ac3d": {
+      "assetMtime": 1692256170135,
+      "metaMtime": 1692328270968
+    },
+    "c0fcccd5-fd7a-4640-9ff1-5158b144ac0d": {
+      "assetMtime": 1691985324270,
+      "metaMtime": 1692328271062
+    },
+    "850a3cc0-6612-40c4-b905-896d5e7d8540": {
+      "assetMtime": 1691985324270,
+      "metaMtime": 1692328271062
+    },
+    "c5ece095-3d27-4651-ab99-87d7b6b87bcf": {
+      "assetMtime": 1692256170134,
+      "metaMtime": 1692328270990
+    },
+    "ea90ce5f-6929-4323-b790-bb2b36bc430d": {
+      "assetMtime": 1692256170134,
+      "metaMtime": 1692328270990
+    },
+    "cadf2c39-e594-41a9-82c0-e698690eb3ce": {
+      "assetMtime": 1691810961985,
+      "metaMtime": 1692328271111
+    },
+    "16e5dbbf-3d88-405e-b0ce-ff05f8642320": {
+      "assetMtime": 1691810961985,
+      "metaMtime": 1692328271111
+    },
+    "cf801070-83d5-498b-be80-4055b78b3b88": {
+      "assetMtime": 1691833609047,
+      "metaMtime": 1692328271039
+    },
+    "9c354459-afeb-4655-bc69-65ead8f53548": {
+      "assetMtime": 1691833609047,
+      "metaMtime": 1692328271039
+    },
+    "de0e3736-61b9-41a4-88fa-a1a0f67ed541": {
+      "assetMtime": 1691372478849,
+      "metaMtime": 1692328271099
+    },
+    "caa8ab6d-b7c4-4564-addb-01940afc6852": {
+      "assetMtime": 1691372478849,
+      "metaMtime": 1692328271099
+    },
+    "e79f1969-cd7a-401b-beff-c22e7314e709": {
+      "assetMtime": 1693382128602,
+      "metaMtime": 1693382128628
+    },
+    "72590d6b-78f6-46b5-a33f-598cdffe695d": {
+      "assetMtime": 1693382128602,
+      "metaMtime": 1693382128628
+    },
+    "fe7c5f40-d4fa-4690-abe3-ba72e5ec6afd": {
+      "assetMtime": 1691809882902,
+      "metaMtime": 1692328271093
+    },
+    "23ba14ee-859c-4d6d-9546-4d1671134a64": {
+      "assetMtime": 1691809882902,
+      "metaMtime": 1692328271093
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.5",
+    "uuid": "c350f6e4-4635-486f-bcc9-ec8c59dbadc2",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "Xp Bar Background",
+            "uuid": "5a750006-c8ba-4dc8-a918-f43f1383ad24",
+            "textureUuid": "95ebe953-9db4-4743-8360-cb87c15398f1",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694512891553_image_6.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 642,
+              "height": 27,
+              "rotatedWidth": 27,
+              "rotatedHeight": 642
+            },
+            "rawWidth": 642,
+            "rawHeight": 27,
+            "width": 648,
+            "height": 33,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/95/95ebe953-9db4-4743-8360-cb87c15398f1.png",
+            "x": 0,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 33,
+            "rotatedHeight": 648
+          },
+          {
+            "name": "hud_pausemenu",
+            "uuid": "e79f1969-cd7a-401b-beff-c22e7314e709",
+            "textureUuid": "72590d6b-78f6-46b5-a33f-598cdffe695d",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694512891556_image_20.png",
+            "trim": {
+              "x": 3,
+              "y": 651,
+              "width": 128,
+              "height": 245,
+              "rotatedWidth": 128,
+              "rotatedHeight": 245
+            },
+            "rawWidth": 128,
+            "rawHeight": 245,
+            "width": 134,
+            "height": 251,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/72/72590d6b-78f6-46b5-a33f-598cdffe695d.png",
+            "x": 0,
+            "y": 648,
+            "rotatedWidth": 134,
+            "rotatedHeight": 251
+          },
+          {
+            "name": "mute sound",
+            "uuid": "2fa27978-1df9-4ee6-b0c9-6579786e2904",
+            "textureUuid": "45b05a9b-cc21-43f4-bd75-e1f15b4d8b27",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694512891553_image_3.png",
+            "trim": {
+              "x": 3,
+              "y": 902,
+              "width": 75,
+              "height": 60,
+              "rotatedWidth": 75,
+              "rotatedHeight": 60
+            },
+            "rawWidth": 75,
+            "rawHeight": 60,
+            "width": 81,
+            "height": 66,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/45/45b05a9b-cc21-43f4-bd75-e1f15b4d8b27.png",
+            "x": 0,
+            "y": 899,
+            "rotatedWidth": 81,
+            "rotatedHeight": 66
+          },
+          {
+            "name": "sound",
+            "uuid": "007844dc-bf37-48af-bce7-6a9e19c1c825",
+            "textureUuid": "68415a73-c05e-414b-b2fb-6bf48dc1d2ba",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694512891552_image_0.png",
+            "trim": {
+              "x": 84,
+              "y": 902,
+              "width": 62,
+              "height": 60,
+              "rotatedWidth": 62,
+              "rotatedHeight": 60
+            },
+            "rawWidth": 62,
+            "rawHeight": 60,
+            "width": 68,
+            "height": 66,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/68/68415a73-c05e-414b-b2fb-6bf48dc1d2ba.png",
+            "x": 81,
+            "y": 899,
+            "rotatedWidth": 68,
+            "rotatedHeight": 66
+          },
+          {
+            "name": "Xp Bar",
+            "uuid": "de0e3736-61b9-41a4-88fa-a1a0f67ed541",
+            "textureUuid": "caa8ab6d-b7c4-4564-addb-01940afc6852",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694512891556_image_19.png",
+            "trim": {
+              "x": 36,
+              "y": 3,
+              "width": 642,
+              "height": 26,
+              "rotatedWidth": 26,
+              "rotatedHeight": 642
+            },
+            "rawWidth": 642,
+            "rawHeight": 26,
+            "width": 648,
+            "height": 32,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/ca/caa8ab6d-b7c4-4564-addb-01940afc6852.png",
+            "x": 33,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 32,
+            "rotatedHeight": 648
+          },
+          {
+            "name": "ui_portrait_frame",
+            "uuid": "2f047332-0ae4-4cd5-b5f1-4f54a6a0fdda",
+            "textureUuid": "215d1772-3333-42b0-8d49-682898b2b287",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694512891553_image_2.png",
+            "trim": {
+              "x": 3,
+              "y": 968,
+              "width": 44,
+              "height": 40,
+              "rotatedWidth": 44,
+              "rotatedHeight": 40
+            },
+            "rawWidth": 44,
+            "rawHeight": 40,
+            "width": 50,
+            "height": 46,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/21/215d1772-3333-42b0-8d49-682898b2b287.png",
+            "x": 0,
+            "y": 965,
+            "rotatedWidth": 50,
+            "rotatedHeight": 46
+          },
+          {
+            "name": "Upgrade icon outline",
+            "uuid": "cadf2c39-e594-41a9-82c0-e698690eb3ce",
+            "textureUuid": "16e5dbbf-3d88-405e-b0ce-ff05f8642320",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694512891556_image_17.png",
+            "trim": {
+              "x": 53,
+              "y": 968,
+              "width": 41,
+              "height": 43,
+              "rotatedWidth": 43,
+              "rotatedHeight": 41
+            },
+            "rawWidth": 41,
+            "rawHeight": 43,
+            "width": 47,
+            "height": 49,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/16/16e5dbbf-3d88-405e-b0ce-ff05f8642320.png",
+            "x": 50,
+            "y": 965,
+            "rotated": true,
+            "rotatedWidth": 49,
+            "rotatedHeight": 47
+          },
+          {
+            "name": "hud_HP",
+            "uuid": "ae5cb7b6-75d8-4570-8a25-e43d7156aec5",
+            "textureUuid": "dd1a9039-6098-4bbc-aec9-a243f38a4fa5",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694512891555_image_13.png",
+            "trim": {
+              "x": 102,
+              "y": 968,
+              "width": 18,
+              "height": 8,
+              "rotatedWidth": 18,
+              "rotatedHeight": 8
+            },
+            "rawWidth": 199,
+            "rawHeight": 87,
+            "width": 24,
+            "height": 14,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/dd/dd1a9039-6098-4bbc-aec9-a243f38a4fa5.png",
+            "x": 99,
+            "y": 965,
+            "rotatedWidth": 24,
+            "rotatedHeight": 14
+          },
+          {
+            "name": "hud_ATKicon",
+            "uuid": "8ada13f4-0502-42fa-b3b7-a51397660525",
+            "textureUuid": "f65890f6-3427-49ed-8804-e077d909c7cf",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694512891554_image_8.png",
+            "trim": {
+              "x": 126,
+              "y": 968,
+              "width": 16,
+              "height": 16,
+              "rotatedWidth": 16,
+              "rotatedHeight": 16
+            },
+            "rawWidth": 16,
+            "rawHeight": 16,
+            "width": 22,
+            "height": 22,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/f6/f65890f6-3427-49ed-8804-e077d909c7cf.png",
+            "x": 123,
+            "y": 965,
+            "rotatedWidth": 22,
+            "rotatedHeight": 22
+          },
+          {
+            "name": "hud_cooldownicon",
+            "uuid": "9ed25358-08f5-4891-87af-033640c38c5f",
+            "textureUuid": "bc1ed61a-a8ef-4d17-9cb6-3d2f0a568139",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694512891554_image_9.png",
+            "trim": {
+              "x": 102,
+              "y": 982,
+              "width": 16,
+              "height": 16,
+              "rotatedWidth": 16,
+              "rotatedHeight": 16
+            },
+            "rawWidth": 16,
+            "rawHeight": 16,
+            "width": 22,
+            "height": 22,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/bc/bc1ed61a-a8ef-4d17-9cb6-3d2f0a568139.png",
+            "x": 99,
+            "y": 979,
+            "rotatedWidth": 22,
+            "rotatedHeight": 22
+          },
+          {
+            "name": "hud_pickupicon",
+            "uuid": "a75aee1f-32ed-48e1-b2d9-d2790f1176f6",
+            "textureUuid": "5f123ea6-30e1-4daa-a702-ce32d481a8a2",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694512891554_image_12.png",
+            "trim": {
+              "x": 148,
+              "y": 968,
+              "width": 16,
+              "height": 16,
+              "rotatedWidth": 16,
+              "rotatedHeight": 16
+            },
+            "rawWidth": 16,
+            "rawHeight": 16,
+            "width": 22,
+            "height": 22,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/5f/5f123ea6-30e1-4daa-a702-ce32d481a8a2.png",
+            "x": 145,
+            "y": 965,
+            "rotatedWidth": 22,
+            "rotatedHeight": 22
+          },
+          {
+            "name": "hud_criticon",
+            "uuid": "bf16591a-2475-42fe-88ae-379b89a41ad3",
+            "textureUuid": "c7fcce2c-2528-4f13-ac14-e6918cc4ac3d",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694512891555_image_14.png",
+            "trim": {
+              "x": 124,
+              "y": 990,
+              "width": 16,
+              "height": 16,
+              "rotatedWidth": 16,
+              "rotatedHeight": 16
+            },
+            "rawWidth": 16,
+            "rawHeight": 16,
+            "width": 22,
+            "height": 22,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/c7/c7fcce2c-2528-4f13-ac14-e6918cc4ac3d.png",
+            "x": 121,
+            "y": 987,
+            "rotatedWidth": 22,
+            "rotatedHeight": 22
+          },
+          {
+            "name": "hud_spdicon",
+            "uuid": "c5ece095-3d27-4651-ab99-87d7b6b87bcf",
+            "textureUuid": "ea90ce5f-6929-4323-b790-bb2b36bc430d",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694512891555_image_16.png",
+            "trim": {
+              "x": 102,
+              "y": 1004,
+              "width": 16,
+              "height": 16,
+              "rotatedWidth": 16,
+              "rotatedHeight": 16
+            },
+            "rawWidth": 16,
+            "rawHeight": 16,
+            "width": 22,
+            "height": 22,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/ea/ea90ce5f-6929-4323-b790-bb2b36bc430d.png",
+            "x": 99,
+            "y": 1001,
+            "rotatedWidth": 22,
+            "rotatedHeight": 22
+          },
+          {
+            "name": "hud_HPicon",
+            "uuid": "a2b28bf9-3510-4d3c-8ceb-84435992d58d",
+            "textureUuid": "2a0eda26-8693-4e9d-82af-933d8814f51a",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694512891554_image_10.png",
+            "trim": {
+              "x": 146,
+              "y": 990,
+              "width": 16,
+              "height": 14,
+              "rotatedWidth": 16,
+              "rotatedHeight": 14
+            },
+            "rawWidth": 16,
+            "rawHeight": 16,
+            "width": 22,
+            "height": 20,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/2a/2a0eda26-8693-4e9d-82af-933d8814f51a.png",
+            "x": 143,
+            "y": 987,
+            "rotatedWidth": 22,
+            "rotatedHeight": 20
+          },
+          {
+            "name": "ui_defeatedEnemies",
+            "uuid": "2874f8aa-be0d-463d-9454-6015d24d3122",
+            "textureUuid": "42145522-dde2-41fd-b479-b679c1ba29b4",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694512891553_image_1.png",
+            "trim": {
+              "x": 168,
+              "y": 990,
+              "width": 15,
+              "height": 15,
+              "rotatedWidth": 15,
+              "rotatedHeight": 15
+            },
+            "rawWidth": 15,
+            "rawHeight": 15,
+            "width": 21,
+            "height": 21,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/42/42145522-dde2-41fd-b479-b679c1ba29b4.png",
+            "x": 165,
+            "y": 987,
+            "rotatedWidth": 21,
+            "rotatedHeight": 21
+          },
+          {
+            "name": "ui_empty_slot_weapon",
+            "uuid": "c0fcccd5-fd7a-4640-9ff1-5158b144ac0d",
+            "textureUuid": "850a3cc0-6612-40c4-b905-896d5e7d8540",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694512891555_image_15.png",
+            "trim": {
+              "x": 146,
+              "y": 1010,
+              "width": 11,
+              "height": 11,
+              "rotatedWidth": 11,
+              "rotatedHeight": 11
+            },
+            "rawWidth": 12,
+            "rawHeight": 11,
+            "width": 17,
+            "height": 17,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/85/850a3cc0-6612-40c4-b905-896d5e7d8540.png",
+            "x": 143,
+            "y": 1007,
+            "rotatedWidth": 17,
+            "rotatedHeight": 17
+          },
+          {
+            "name": "ui_empty_slot_item",
+            "uuid": "73c3f9af-e980-4a86-b576-4aefb643cf03",
+            "textureUuid": "0b96bb4c-d7ca-4016-9eda-549c0bcf5594",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694512891553_image_7.png",
+            "trim": {
+              "x": 163,
+              "y": 1011,
+              "width": 10,
+              "height": 10,
+              "rotatedWidth": 10,
+              "rotatedHeight": 10
+            },
+            "rawWidth": 12,
+            "rawHeight": 11,
+            "width": 16,
+            "height": 16,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/0b/0b96bb4c-d7ca-4016-9eda-549c0bcf5594.png",
+            "x": 160,
+            "y": 1008,
+            "rotatedWidth": 16,
+            "rotatedHeight": 16
+          },
+          {
+            "name": "Upgrade Background On Hover",
+            "uuid": "50097170-5be8-468a-b1d8-f5df9730c22e",
+            "textureUuid": "65011263-9a9e-4ebc-83a7-253c4b7045b3",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694512891553_image_5.png",
+            "trim": {
+              "x": 68,
+              "y": 3,
+              "width": 390,
+              "height": 71,
+              "rotatedWidth": 71,
+              "rotatedHeight": 390
+            },
+            "rawWidth": 390,
+            "rawHeight": 71,
+            "width": 396,
+            "height": 77,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/65/65011263-9a9e-4ebc-83a7-253c4b7045b3.png",
+            "x": 65,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 77,
+            "rotatedHeight": 396
+          },
+          {
+            "name": "PauseButton",
+            "uuid": "3b046edb-786b-4a21-aaf3-a70fb9fe3ee3",
+            "textureUuid": "2a15eec5-5ca7-4a95-9219-955e0d0b50fc",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694512891553_image_4.png",
+            "trim": {
+              "x": 68,
+              "y": 399,
+              "width": 168,
+              "height": 216,
+              "rotatedWidth": 168,
+              "rotatedHeight": 216
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 174,
+            "height": 222,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/2a/2a15eec5-5ca7-4a95-9219-955e0d0b50fc.png",
+            "x": 65,
+            "y": 396,
+            "rotatedWidth": 174,
+            "rotatedHeight": 222
+          },
+          {
+            "name": "Upgrade Background",
+            "uuid": "fe7c5f40-d4fa-4690-abe3-ba72e5ec6afd",
+            "textureUuid": "23ba14ee-859c-4d6d-9546-4d1671134a64",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694512891557_image_21.png",
+            "trim": {
+              "x": 189,
+              "y": 621,
+              "width": 384,
+              "height": 63,
+              "rotatedWidth": 63,
+              "rotatedHeight": 384
+            },
+            "rawWidth": 384,
+            "rawHeight": 64,
+            "width": 390,
+            "height": 69,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/23/23ba14ee-859c-4d6d-9546-4d1671134a64.png",
+            "x": 186,
+            "y": 618,
+            "rotated": true,
+            "rotatedWidth": 69,
+            "rotatedHeight": 390
+          },
+          {
+            "name": "KHUNG",
+            "uuid": "a63cc430-0cb1-4117-9cf9-e499de120be4",
+            "textureUuid": "37e2125b-079c-49c9-8d0c-cfb5672ae4a6",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694512891554_image_11.png",
+            "trim": {
+              "x": 145,
+              "y": 3,
+              "width": 296,
+              "height": 120,
+              "rotatedWidth": 120,
+              "rotatedHeight": 296
+            },
+            "rawWidth": 298,
+            "rawHeight": 121,
+            "width": 302,
+            "height": 126,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/37/37e2125b-079c-49c9-8d0c-cfb5672ae4a6.png",
+            "x": 142,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 126,
+            "rotatedHeight": 302
+          },
+          {
+            "name": "spr_holoCoin_0",
+            "uuid": "cf801070-83d5-498b-be80-4055b78b3b88",
+            "textureUuid": "9c354459-afeb-4655-bc69-65ead8f53548",
+            "path": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\trimImages\\spritesheet_js_1694512891556_image_18.png",
+            "trim": {
+              "x": 68,
+              "y": 621,
+              "width": 15,
+              "height": 15,
+              "rotatedWidth": 15,
+              "rotatedHeight": 15
+            },
+            "rawWidth": 15,
+            "rawHeight": 15,
+            "width": 21,
+            "height": 21,
+            "originalPath": "C:/Users/ADMIN/Downloads/top-down-master/top-down-master/library/imports/9c/9c354459-afeb-4655-bc69-65ead8f53548.png",
+            "x": 65,
+            "y": 618,
+            "rotatedWidth": 21,
+            "rotatedHeight": 21
+          }
+        ],
+        "width": 268,
+        "height": 1024,
+        "name": "AutoAtlas-1",
+        "imagePath": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\TexturePacker\\build\\native\\assets\\Texture\\Sprite\\UI\\AutoAtlas.pac\\AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "C:\\Users\\ADMIN\\Downloads\\top-down-master\\top-down-master\\temp\\TexturePacker\\build\\native\\assets\\Texture\\Sprite\\UI\\AutoAtlas.pac\\compressed\\AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

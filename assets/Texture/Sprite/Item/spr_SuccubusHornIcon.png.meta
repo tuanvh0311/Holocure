@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d8a1f5b0-366a-43b7-9b76-5beb7758a14c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 25,
+  "height": 20,
+  "platformSettings": {},
+  "subMetas": {
+    "spr_SuccubusHornIcon": {
+      "ver": "1.0.6",
+      "uuid": "45decda9-5f44-4647-be7b-c4475ad1a5b4",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d8a1f5b0-366a-43b7-9b76-5beb7758a14c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 21,
+      "height": 16,
+      "rawWidth": 25,
+      "rawHeight": 20,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

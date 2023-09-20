@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GrassHills",
+    "texture": "2833ec0f-7e4c-43ad-9aad-a0625a5ffee6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      160,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

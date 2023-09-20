@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "molly frame 2",
+    "texture": "10f76949-5061-4510-8e54-aa663f8b3d09",
+    "atlas": "",
+    "rect": [
+      0,
+      18,
+      413,
+      369
+    ],
+    "offset": [
+      0,
+      4
+    ],
+    "originalSize": [
+      413,
+      413
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

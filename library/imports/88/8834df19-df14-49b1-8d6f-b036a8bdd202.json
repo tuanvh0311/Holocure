@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "menu_charselecBG",
+    "texture": "c6df3b06-4571-4e1c-930b-edc2b7128ce1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      640,
+      360
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      640,
+      360
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

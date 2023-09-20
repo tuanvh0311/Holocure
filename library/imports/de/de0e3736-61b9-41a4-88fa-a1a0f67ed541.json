@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Xp Bar",
+    "texture": "caa8ab6d-b7c4-4564-addb-01940afc6852",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      642,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      642,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

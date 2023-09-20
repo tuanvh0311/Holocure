@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_menu_stats_divider",
+    "texture": "ba27eefe-33d4-4c49-8f01-2e960ea14b24",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      121,
+      1
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      121,
+      1
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

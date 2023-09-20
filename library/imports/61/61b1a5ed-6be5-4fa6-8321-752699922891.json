@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Gura_Idle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.375,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "277d5001-ad95-4242-a7db-4f93a8e043dd"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "d8c4ba66-0b50-411e-9d87-be43f1d504ab"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "87f27cff-9781-4791-bd8a-7e6732a9004a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
